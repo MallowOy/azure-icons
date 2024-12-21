@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-20.
+Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-21.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1016,15 +1016,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MedTech service](svg/Microsoft_Healthcare_APIs/IotConnector.svg) | Microsoft.HealthcareApis/ workspaces/ iotconnectors |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
 | [Devices](svg/Microsoft_Intune_Devices/DeviceEntryBladeAsset.svg) |  |
-| [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAsset.svg) |  |
-| [Intune for Education](svg/Microsoft_Intune_DeviceSettings/IntuneEduAsset.svg) |  |
-| [Apps](svg/Microsoft_Intune_DeviceSettings/AppsAsset.svg) |  |
-| [Devices](svg/Microsoft_Intune_DeviceSettings/DevicesAsset.svg) |  |
-| [Tenant administration](svg/Microsoft_Intune_DeviceSettings/TenantAdminAsset.svg) |  |
-| [Troubleshooting + support](svg/Microsoft_Intune_DeviceSettings/TroubleshootSupportAsset.svg) |  |
-| [Intune](svg/Microsoft_Intune_DeviceSettings/Intune.svg) |  |
-| [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneFF.svg) |  |
 | [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneMC.svg) |  |
+| [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneFF.svg) |  |
+| [Intune](svg/Microsoft_Intune_DeviceSettings/Intune.svg) |  |
+| [Troubleshooting + support](svg/Microsoft_Intune_DeviceSettings/TroubleshootSupportAsset.svg) |  |
+| [Tenant administration](svg/Microsoft_Intune_DeviceSettings/TenantAdminAsset.svg) |  |
+| [Devices](svg/Microsoft_Intune_DeviceSettings/DevicesAsset.svg) |  |
+| [Apps](svg/Microsoft_Intune_DeviceSettings/AppsAsset.svg) |  |
+| [Intune for Education](svg/Microsoft_Intune_DeviceSettings/IntuneEduAsset.svg) |  |
+| [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAsset.svg) |  |
 | [Alert](svg/Microsoft_Intune_Edu/Alerts.svg) |  |
 | [App](svg/Microsoft_Intune_Edu/Apps.svg) |  |
 | [Barcode scanner](svg/Microsoft_Intune_Edu/BarcodeScanner.svg) |  |
