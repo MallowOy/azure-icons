@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-21.
+Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2024-12-22.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -651,16 +651,17 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Migrate](svg/Microsoft_Azure_Migrate/AzureMigrationHub.svg) |  |
 | [Migration project](svg/Microsoft_Azure_Migrate/MigrationProject.svg) | Microsoft.Migrate/ projects |
 | [Migrate Assessment](svg/Microsoft_Azure_MigrateAssessment/MigrateAssessmentResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
-| [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
-| [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
-| [Azure AI Studio](svg/Microsoft_Azure_MLTeamAccounts/AIStudio.svg) | Microsoft.MachineLearningServices/ aistudio |
-| [Cohere](svg/Microsoft_Azure_MLTeamAccounts/Cohere.svg) |  |
-| [Core42](svg/Microsoft_Azure_MLTeamAccounts/Core42.svg) |  |
-| [Llama2](svg/Microsoft_Azure_MLTeamAccounts/Llama2.svg) |  |
-| [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
-| [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
+| [Nixtla](svg/Microsoft_Azure_MLTeamAccounts/Nixtla.svg) |  |
 | [Model Provider](svg/Microsoft_Azure_MLTeamAccounts/ModelProvider.svg) |  |
+| [Mistral](svg/Microsoft_Azure_MLTeamAccounts/Mistral.svg) |  |
+| [Azure Machine Learning workspace](svg/Microsoft_Azure_MLTeamAccounts/MachineLearningServices.svg) | Microsoft.MachineLearningServices/ workspaces |
+| [Llama2](svg/Microsoft_Azure_MLTeamAccounts/Llama2.svg) |  |
+| [Core42](svg/Microsoft_Azure_MLTeamAccounts/Core42.svg) |  |
+| [Cohere](svg/Microsoft_Azure_MLTeamAccounts/Cohere.svg) |  |
+| [Azure AI Foundry](svg/Microsoft_Azure_MLTeamAccounts/AIStudio.svg) | Microsoft.MachineLearningServices/ aistudio |
+| [Azure Machine Learning registry](svg/Microsoft_Azure_MLTeamAccounts/Registry.svg) | Microsoft.MachineLearningServices/ registries |
+| [Machine learning online endpoint](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpoint.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints |
+| [Machine learning online deployment](svg/Microsoft_Azure_MLTeamAccounts/OnlineEndpointDeployment.svg) | Microsoft.MachineLearningServices/ workspaces/ onlineEndpoints/ deployments |
 | [Chamber](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers |
 | [Chamber Data Pipeline File](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ files |
 | [Chamber Data Pipeline File Request](svg/Microsoft_Azure_ModSimWorkbench/SdwChamberDataPipelineFileRequestResource.svg) | Microsoft.ModSimWorkbench/ workbenches/ chambers/ fileRequests |
