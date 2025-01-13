@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.2.114.232.0.192030.241204-1800 on 2025-01-12.
+Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-13.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -288,11 +288,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint](svg/Microsoft_Azure_Cdn/Endpoint.svg) | microsoft.cdn/ profiles/ endpoints |
 | [Origin](svg/Microsoft_Azure_Cdn/Origin.svg) | microsoft.cdn/ profiles/ endpoints/ origins |
 | [Change Analysis](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
-| [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperiment.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
-| [Target Management](svg/Microsoft_Azure_Chaos/targetsManagement.svg) |  |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
@@ -783,6 +781,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
+| [IoT Operations Ops MQ](svg/Microsoft_Azure_OpsMQ/IoTOperationsOpsMQ.svg) | microsoft.iotoperationsmq/ mq |
 | [Cloud Access Router](svg/Microsoft_Azure_Orbital/CloudAccessRouters.svg) | Microsoft.Orbital/ cloudAccessRouters |
 | [Cloud Access Terminal](svg/Microsoft_Azure_Orbital/CloudAccessTerminals.svg) | Microsoft.Orbital/ terminals |
 | [Azure Orbital Cloud Access](svg/Microsoft_Azure_Orbital/AzureOrbitalCloudAccess.svg) |  |
