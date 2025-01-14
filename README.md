@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-13.
+Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-14.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -781,7 +781,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
-| [IoT Operations Ops MQ](svg/Microsoft_Azure_OpsMQ/IoTOperationsOpsMQ.svg) | microsoft.iotoperationsmq/ mq |
 | [Cloud Access Router](svg/Microsoft_Azure_Orbital/CloudAccessRouters.svg) | Microsoft.Orbital/ cloudAccessRouters |
 | [Cloud Access Terminal](svg/Microsoft_Azure_Orbital/CloudAccessTerminals.svg) | Microsoft.Orbital/ terminals |
 | [Azure Orbital Cloud Access](svg/Microsoft_Azure_Orbital/AzureOrbitalCloudAccess.svg) |  |
