@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-14.
+Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-15.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -58,10 +58,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Guest Usage](svg/Microsoft_AAD_B2CAdmin/GuestUsages.svg) | Microsoft.AzureActiveDirectory/ guestUsages |
 | [External Configuration Tenant](svg/Microsoft_AAD_B2CAdmin/CIAMTenant.svg) | Microsoft.AzureActiveDirectory/ ciamDirectories |
 | [B2C Tenant](svg/Microsoft_AAD_B2CAdmin/B2CTenant.svg) | Microsoft.AzureActiveDirectory/ b2cDirectories |
-| [Microsoft Entra Conditional Access](svg/Microsoft_AAD_ConditionalAccess/PolicyRootAsset.svg) |  |
-| [Microsoft Entra Authentication Strengths](svg/Microsoft_AAD_ConditionalAccess/AuthenticationStrengthsRootAsset.svg) |  |
-| [Microsoft Entra Named locations](svg/Microsoft_AAD_ConditionalAccess/NamedLocationsRootAsset.svg) |  |
 | [Microsoft Entra Password protection](svg/Microsoft_AAD_ConditionalAccess/PasswordProtectionRootAsset.svg) |  |
+| [Microsoft Entra Named locations](svg/Microsoft_AAD_ConditionalAccess/NamedLocationsRootAsset.svg) |  |
+| [Microsoft Entra Authentication Strengths](svg/Microsoft_AAD_ConditionalAccess/AuthenticationStrengthsRootAsset.svg) |  |
+| [Microsoft Entra Conditional Access](svg/Microsoft_AAD_ConditionalAccess/PolicyRootAsset.svg) |  |
 | [Cross-tenant Synchronization](svg/Microsoft_AAD_Connect_Provisioning/CrossTenantSynchronizationMainMenuBlade.svg) |  |
 | [Verified ID](svg/Microsoft_AAD_DecentralizedIdentity/PortableIdentityCards.svg) |  |
 | [Microsoft Entra Domain Services](svg/Microsoft_AAD_DomainServices/AADDomainService.svg) | Microsoft.AAD/ domainServices |
@@ -260,9 +260,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
 | [App Protect Policy](svg/Microsoft_Azure_AppProtection/AppProtectPolicies.svg) | Microsoft.AppSecurity/ Policies |
-| [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
-| [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
 | [Azure Arc](svg/Microsoft_Azure_ArcCenterUX/AzureArcCenter.svg) |  |
+| [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
+| [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
 | [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | microsoft.kubernetesruntime/ loadbalancers |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
@@ -551,9 +551,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes hybrid - Azure Arc](svg/Microsoft_Azure_HybridCompute/ProvisionedCluster.svg) | Microsoft.HybridContainerService/ provisionedClusters |
 | [Azure Arc virtual machine](svg/Microsoft_Azure_HybridCompute/ArcVirtualMachines.svg) | Microsoft.All/ arcVirtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
-| [Azure Arc enabled resources](svg/Microsoft_Azure_HybridCompute/AllArcResources.svg) | Microsoft.Arc/ all |
-| [Azure Arc enabled resources](svg/Microsoft_Azure_HybridCompute/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
-| [Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureArcCenter.svg) |  |
 | [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
 | [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
@@ -707,6 +704,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Guest Assignment](svg/Microsoft_Azure_Network/VMSSGuestAssignment.svg) | Microsoft.Compute/ virtualMachineScaleSets/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Network/VMWareGuestAssignment.svg) | Microsoft.ConnectedVMwarevSphere/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Load balancer](svg/Microsoft_Azure_Network/LoadBalancer.svg) | Microsoft.Network/ LoadBalancers |
+| [Load balancing and content delivery](svg/Microsoft_Azure_Network/LoadBalancerAndContentDelivery.svg) |  |
 | [Load balancing - help me choose](svg/Microsoft_Azure_Network/LoadBalancingHub.svg) |  |
 | [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
 | [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
@@ -725,7 +723,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Route table](svg/Microsoft_Azure_Network/RouteTable.svg) | Microsoft.Network/ routeTables |
 | [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
 | [Virtual network](svg/Microsoft_Azure_Network/VirtualNetwork.svg) | Microsoft.Network/ virtualNetworks |
-| [Virtual Network Terminal Access Point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
+| [Virtual network terminal access point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
 | [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
 | [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
@@ -924,14 +922,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
-| [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
-| [Storage account](svg/Microsoft_Azure_Storage/StorageAccount.svg) | Microsoft.Storage/ StorageAccounts |
 | [Storage browser](svg/Microsoft_Azure_Storage/StorageBrowser.svg) |  |
+| [Storage account](svg/Microsoft_Azure_Storage/StorageAccount.svg) | Microsoft.Storage/ StorageAccounts |
+| [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
 | [Azure Managed Lustre](svg/Microsoft_Azure_StorageCache/AmlFileSystems.svg) | Microsoft.StorageCache/ amlFilesystems |
 | [HPC cache](svg/Microsoft_Azure_StorageCache/StorageCache.svg) | Microsoft.StorageCache/ caches |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
-| [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
 | [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
+| [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
 | [Stream Analytics cluster](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsCluster.svg) | Microsoft.StreamAnalytics/ clusters |
 | [Stream Analytics job](svg/Microsoft_Azure_StreamAnalytics/StreamAnalyticsJob.svg) | Microsoft.StreamAnalytics/ StreamingJobs |
 | [Help + support](svg/Microsoft_Azure_Support/HelpAndSupport.svg) |  |
