@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-16.
+Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-17.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -410,9 +410,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Slice](svg/Microsoft_Azure_DataFactory/Slice.svg) |  |
 | [Data Lake Analytics](svg/Microsoft_Azure_DataLakeAnalytics/KonaAccount.svg) | Microsoft.DataLakeAnalytics/ accounts |
 | [Data Lake Storage Gen1](svg/Microsoft_Azure_DataLakeStore/CaboAccount.svg) | Microsoft.DataLakeStore/ accounts |
-| [Backup center](svg/Microsoft_Azure_DataProtection/BackupCenter.svg) |  |
-| [Backup vault](svg/Microsoft_Azure_DataProtection/DataProtectionResource.svg) | Microsoft.DataProtection/ BackupVaults |
 | [Resource Guard](svg/Microsoft_Azure_DataProtection/ResourceGuardResource.svg) | Microsoft.DataProtection/ resourceGuards |
+| [Backup vault](svg/Microsoft_Azure_DataProtection/DataProtectionResource.svg) | Microsoft.DataProtection/ BackupVaults |
+| [Backup center](svg/Microsoft_Azure_DataProtection/BackupCenter.svg) |  |
 | [Data Share](svg/Microsoft_Azure_DataShare/DataShare.svg) | Microsoft.DataShare/ accounts |
 | [Data Share Invitation](svg/Microsoft_Azure_DataShare/InvitationsBrowse.svg) |  |
 | [ClusterStor](svg/Microsoft_Azure_Dedicated_ClusterStor/ClusterStor.svg) | Microsoft.ClusterStor/ nodes |
@@ -537,9 +537,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
 | [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
-| [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
-| [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
 | [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) | Microsoft.HDInsight/ clusterpools |
+| [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
+| [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
 | [Service Health](svg/Microsoft_Azure_Health/AzureHealth.svg) |  |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
@@ -779,7 +779,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
-| [IoT Operations Ops MQ](svg/Microsoft_Azure_OpsMQ/IoTOperationsOpsMQ.svg) | microsoft.iotoperationsmq/ mq |
 | [Cloud Access Router](svg/Microsoft_Azure_Orbital/CloudAccessRouters.svg) | Microsoft.Orbital/ cloudAccessRouters |
 | [Cloud Access Terminal](svg/Microsoft_Azure_Orbital/CloudAccessTerminals.svg) | Microsoft.Orbital/ terminals |
 | [Azure Orbital Cloud Access](svg/Microsoft_Azure_Orbital/AzureOrbitalCloudAccess.svg) |  |
@@ -996,10 +995,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Virtual Desktop](svg/Microsoft_Azure_WVD/WvdManager.svg) |  |
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
-| [Object Anchors Account](svg/Microsoft_Cognition_MixedReality/ObjectAnchorsAccount.svg) | Microsoft.MixedReality/ objectAnchorsAccounts |
-| [Object Understanding Account](svg/Microsoft_Cognition_MixedReality/ObjectUnderstandingAccount.svg) | Microsoft.MixedReality/ objectUnderstandingAccounts |
 | [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
-| [Spatial Anchors Account](svg/Microsoft_Cognition_MixedReality/SpatialAnchorsAccount.svg) | Microsoft.MixedReality/ spatialAnchorsAccounts |
 | [Connected Cache for ISP (early preview)](svg/Microsoft_ConnectedCache/DoincResource.svg) | Microsoft.ConnectedCache/ cacheNodes |
 | [Connected Cache for Enterprise & Education (early preview)](svg/Microsoft_ConnectedCache_Ent/DoincResource.svg) | Microsoft.ConnectedCache/ enterpriseCustomers |
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
