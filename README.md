@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.232.4.114.232.0.136606.241219-1543 on 2025-01-17.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-18.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -925,8 +925,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Storage browser](svg/Microsoft_Azure_Storage/StorageBrowser.svg) |  |
 | [Storage account](svg/Microsoft_Azure_Storage/StorageAccount.svg) | Microsoft.Storage/ StorageAccounts |
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
-| [Azure Managed Lustre](svg/Microsoft_Azure_StorageCache/AmlFileSystems.svg) | Microsoft.StorageCache/ amlFilesystems |
 | [HPC cache](svg/Microsoft_Azure_StorageCache/StorageCache.svg) | Microsoft.StorageCache/ caches |
+| [Azure Managed Lustre](svg/Microsoft_Azure_StorageCache/AmlFileSystems.svg) | Microsoft.StorageCache/ amlFilesystems |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
 | [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
 | [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
@@ -996,7 +996,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
-| [Connected Cache for ISP (early preview)](svg/Microsoft_ConnectedCache/DoincResource.svg) | Microsoft.ConnectedCache/ cacheNodes |
 | [Connected Cache for Enterprise & Education (early preview)](svg/Microsoft_ConnectedCache_Ent/DoincResource.svg) | Microsoft.ConnectedCache/ enterpriseCustomers |
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
