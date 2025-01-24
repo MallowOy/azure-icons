@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-23.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-24.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -32,7 +32,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Astro Resource](svg/Azure_MarketPlace_NativeISVService/OrgResource.svg) | Providers.Test/ statefulIbizaEngines3 |
 | [Solarwinds Resource](svg/Azure_MarketPlace_NativeISVService/ExtensionResource2.svg) | Providers.Test/ statefulIbizaEngines2 |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
-| [Neon Serverless Postgres Resource](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
+| [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
@@ -519,11 +519,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Event Grid Domain Topic](svg/Microsoft_Azure_EventGrid/EventDomainTopic.svg) | Microsoft.EventGrid/ domains/ topics |
 | [Event Grid Domain](svg/Microsoft_Azure_EventGrid/EventDomain.svg) | Microsoft.EventGrid/ domains |
 | [Event Grid Channel](svg/Microsoft_Azure_EventGrid/Channel.svg) | Microsoft.EventGrid/ partnerNamespaces/ channels |
-| [Event Hubs Namespace](svg/Microsoft_Azure_EventHub/EventHub.svg) | Microsoft.EventHub/ namespaces |
-| [Event Hubs Cluster](svg/Microsoft_Azure_EventHub/EventHubCluster.svg) | Microsoft.EventHub/ clusters |
-| [Event Hubs Instance](svg/Microsoft_Azure_EventHub/EventHubSelect.svg) | Microsoft.EventHub/ namespaces/ eventhubs |
-| [Schema Group](svg/Microsoft_Azure_EventHub/SchemaGroupSelect.svg) | Microsoft.EventHub/ namespaces/ schemagroups |
 | [Event Hubs Geo-DR Alias](svg/Microsoft_Azure_EventHub/ServiceBusDrConfig.svg) | Microsoft.EventHub/ namespaces/ disasterrecoveryconfigs |
+| [Schema Group](svg/Microsoft_Azure_EventHub/SchemaGroupSelect.svg) | Microsoft.EventHub/ namespaces/ schemagroups |
+| [Event Hubs Instance](svg/Microsoft_Azure_EventHub/EventHubSelect.svg) | Microsoft.EventHub/ namespaces/ eventhubs |
+| [Event Hubs Cluster](svg/Microsoft_Azure_EventHub/EventHubCluster.svg) | Microsoft.EventHub/ clusters |
+| [Event Hubs Namespace](svg/Microsoft_Azure_EventHub/EventHub.svg) | Microsoft.EventHub/ namespaces |
 | [Experiment Workspace](svg/Microsoft_Azure_Experimentation/Browse.svg) | Microsoft.Experimentation/ experimentWorkspaces |
 | [Advisor](svg/Microsoft_Azure_Expert/AzureAdvisor.svg) |  |
 | [Azure Data Box](svg/Microsoft_Azure_ExpressPod/DataBox.svg) | Microsoft.DataBox/ jobs |
@@ -952,13 +952,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
-| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts |
-| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
-| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
-| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
-| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
-| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
 | [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
+| [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
+| [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
+| [Microsoft.UsageBilling accounts metric export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_metricexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ metricexports |
+| [Microsoft.UsageBilling accounts input](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_inputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ inputs |
+| [Microsoft.UsageBilling accounts data export](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_dataexports_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ dataexports |
+| [Microsoft.UsageBilling account](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts |
 | [Workload](svg/Microsoft_Azure_VirtualEnclaves/Workload.svg) | Microsoft.Mission/ virtualEnclaves/ workloads |
 | [Enclave](svg/Microsoft_Azure_VirtualEnclaves/Enclave.svg) | Microsoft.Mission/ virtualenclaves |
 | [Transit hub](svg/Microsoft_Azure_VirtualEnclaves/TransitHub.svg) | Microsoft.Mission/ communities/ transitHubs |
