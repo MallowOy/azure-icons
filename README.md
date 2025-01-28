@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-27.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-28.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -367,16 +367,16 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
 | [Container registry token](svg/Microsoft_Azure_ContainerRegistries/TokenResource.svg) | Microsoft.ContainerRegistry/ registries/ tokens |
 | [Container registry webhook](svg/Microsoft_Azure_ContainerRegistries/WebhookResource.svg) | Microsoft.ContainerRegistry/ registries/ webhooks |
-| [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
-| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
-| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
-| [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
-| [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
-| [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
+| [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
+| [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
+| [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
+| [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
+| [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
+| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
+| [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
+| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
+| [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
 | [Cost exports](svg/Microsoft_Azure_CostManagement/Exports.svg) |  |
@@ -1074,24 +1074,24 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [ScanX Management](svg/ScanX_Management/ScanXManagement.svg) |  |
 | [ESRP Scan](svg/ScanX_Management/ScanXMeter.svg) | Microsoft.AzureScan/ scanningAccounts |
 | [Service Linker](svg/ServiceLinkerExtension/ServiceLinkerGlobal.svg) |  |
-| [Azure SQL resource](svg/SqlAzureExtension/AzureSQL.svg) | Microsoft.Sql/ azuresql |
-| [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
-| [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
-| [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
-| [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
-| [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
-| [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
-| [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
-| [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
-| [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
-| [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
-| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
-| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
-| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
-| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
-| [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
-| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
 | [Virtual cluster](svg/SqlAzureExtension/VirtualCluster.svg) | Microsoft.Sql/ virtualClusters |
+| [SQL virtual machine](svg/SqlAzureExtension/SqlVirtualMachine.svg) | Microsoft.SqlVirtualMachine/ SqlVirtualMachines |
+| [SQL server](svg/SqlAzureExtension/Server.svg) | Microsoft.Sql/ servers |
+| [Azure Database for PostgreSQL single server](svg/SqlAzureExtension/PostgreSqlServer.svg) | Microsoft.DBforPostgreSQL/ servers |
+| [Azure Database for MySQL single server](svg/SqlAzureExtension/MySqlServer.svg) | Microsoft.DBforMySQL/ servers |
+| [Azure Database for MariaDB server](svg/SqlAzureExtension/MariaDBServer.svg) | Microsoft.DBforMariaDB/ servers |
+| [SQL managed instance](svg/SqlAzureExtension/ManagedInstance.svg) | Microsoft.Sql/ managedInstances |
+| [Managed database](svg/SqlAzureExtension/ManagedDatabase.svg) | Microsoft.Sql/ managedInstances/ databases |
+| [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
+| [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
+| [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
+| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
+| [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
+| [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
+| [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
+| [Database service](svg/SqlAzureExtension/SqlService.svg) |  |
+| [SQL database](svg/SqlAzureExtension/Database.svg) | Microsoft.Sql/ servers/ databases |
+| [Azure SQL resource](svg/SqlAzureExtension/AzureSQL.svg) | Microsoft.Sql/ azuresql |
 | [Universal Print](svg/Universal_Print/universal_Print.svg) |  |
 | [My Resource](svg/VLCentral_Agreement/MyResource.svg) |  |
 | [My Resource](svg/VLCentral_Amendments/VLCentral_Amendments.svg) |  |
@@ -1115,21 +1115,21 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [LiveData Migrator](svg/WandiscoExtension/Migrator.svg) | Wandisco.Fusion/ migrators |
 | [Path Mapping](svg/WandiscoExtension/PathMapping.svg) | Wandisco.Fusion/ migrators/ pathMappings |
 | [Target](svg/WandiscoExtension/Target.svg) | Wandisco.Fusion/ migrators/ targets |
-| [Api App](svg/WebsitesExtension/Apiapp.svg) |  |
-| [App Service Domain](svg/WebsitesExtension/AppServiceDomain.svg) | Microsoft.DomainRegistration/ domains |
-| [App Service Environment](svg/WebsitesExtension/AppServiceEnvironment.svg) | Microsoft.Web/ HostingEnvironments |
-| [App Service Kubernetes Environment](svg/WebsitesExtension/AppServiceKubernetesEnvironment.svg) | Microsoft.Web/ KubeEnvironments |
-| [Container App](svg/WebsitesExtension/ContainerApp.svg) | Microsoft.App/ containerApps |
-| [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
-| [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
-| [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
-| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
-| [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
-| [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
-| [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
-| [Web App](svg/WebsitesExtension/Webapp.svg) |  |
-| [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
-| [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
+| [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
+| [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
+| [Web App](svg/WebsitesExtension/Webapp.svg) |  |
+| [Static Web App](svg/WebsitesExtension/StaticSite.svg) | Microsoft.Web/ StaticSites |
+| [App Service Certificate](svg/WebsitesExtension/SslCertificate.svg) | Microsoft.CertificateRegistration/ certificateOrders |
+| [Mobile App](svg/WebsitesExtension/MobileApp.svg) |  |
+| [Container App Session Pool](svg/WebsitesExtension/ContainerAppSessionPool.svg) | Microsoft.App/ sessionPools |
+| [Container App Job](svg/WebsitesExtension/ContainerAppJobs.svg) | Microsoft.App/ jobs |
+| [Container Apps Environment](svg/WebsitesExtension/ContainerAppEnvironment.svg) | Microsoft.App/ managedEnvironments |
+| [Container Apps Connected Environment](svg/WebsitesExtension/ContainerAppConnectedEnvironment.svg) | Microsoft.App/ connectedEnvironments |
+| [Container App](svg/WebsitesExtension/ContainerApp.svg) | Microsoft.App/ containerApps |
+| [App Service Kubernetes Environment](svg/WebsitesExtension/AppServiceKubernetesEnvironment.svg) | Microsoft.Web/ KubeEnvironments |
+| [App Service Environment](svg/WebsitesExtension/AppServiceEnvironment.svg) | Microsoft.Web/ HostingEnvironments |
+| [App Service Domain](svg/WebsitesExtension/AppServiceDomain.svg) | Microsoft.DomainRegistration/ domains |
+| [Api App](svg/WebsitesExtension/Apiapp.svg) |  |
 
 
