@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-01-31.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-01.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -447,26 +447,26 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual machine](svg/Microsoft_Azure_DevTestLab/MyLabVms.svg) | Microsoft.DevTestLab/ labs/ virtualMachines |
 | [Dev Tunnels Domain](svg/Microsoft_Azure_DevTunnels/devtunnels.svg) | microsoft.devtunnels/ tunnelplans |
 | [Azure Digital Twins](svg/Microsoft_Azure_DigitalTwins/digitaltwinsInstances.svg) | Microsoft.DigitalTwins/ digitalTwinsInstances |
-| [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
-| [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
-| [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
-| [Restore Point](svg/Microsoft_Azure_DiskMgmt/RestorePoint.svg) | Microsoft.Compute/ restorePointCollections/ restorePoints |
-| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
-| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersion.svg) | Microsoft.Compute/ galleries/ images/ versions |
-| [Image template](svg/Microsoft_Azure_DiskMgmt/ImageTemplate.svg) | Microsoft.VirtualMachineImages/ imageTemplates |
-| [Image](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) | Microsoft.Compute/ imagesComputehub |
-| [Image](svg/Microsoft_Azure_DiskMgmt/Image.svg) | Microsoft.Compute/ images |
-| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinitionComputeHub.svg) | Microsoft.Compute/ galleries/ imagesComputehub |
-| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
-| [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
-| [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
-| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
-| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
-| [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
-| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
-| [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
-| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
+| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
+| [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
+| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
+| [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
+| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
+| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
+| [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
+| [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
+| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
+| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinitionComputeHub.svg) | Microsoft.Compute/ galleries/ imagesComputehub |
+| [Image](svg/Microsoft_Azure_DiskMgmt/Image.svg) | Microsoft.Compute/ images |
+| [Image](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) | Microsoft.Compute/ imagesComputehub |
+| [Image template](svg/Microsoft_Azure_DiskMgmt/ImageTemplate.svg) | Microsoft.VirtualMachineImages/ imageTemplates |
+| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersion.svg) | Microsoft.Compute/ galleries/ images/ versions |
+| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
+| [Restore Point](svg/Microsoft_Azure_DiskMgmt/RestorePoint.svg) | Microsoft.Compute/ restorePointCollections/ restorePoints |
+| [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
+| [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
+| [Snapshot](svg/Microsoft_Azure_DiskMgmt/Snapshot.svg) | Microsoft.Compute/ snapshots |
 | [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
 | [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | microsoft.datamigration/ sqlmigrationservices |
@@ -496,13 +496,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
 | [Education](svg/Microsoft_Azure_Education/Education.svg) |  |
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
-| [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
-| [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
-| [Integration Service Environment](svg/Microsoft_Azure_EMA/IntegrationServiceEnvironment.svg) | Microsoft.Logic/ integrationServiceEnvironments |
-| [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
-| [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
-| [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
 | [API Connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
+| [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
+| [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
+| [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
+| [Integration Service Environment](svg/Microsoft_Azure_EMA/IntegrationServiceEnvironment.svg) | Microsoft.Logic/ integrationServiceEnvironments |
+| [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
+| [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Email Communication Services Domain](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationServicesDomain.svg) | Microsoft.Communication/ EmailServices/ Domains |
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Azure Center for Epic solution](svg/Microsoft_Azure_EpicManagement/LandingAsset.svg) |  |
@@ -1011,12 +1011,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
 | [Managed Desktop](svg/Microsoft_EMM_ModernWorkplace/MWaaS.svg) |  |
-| [DICOM service](svg/Microsoft_Healthcare_APIs/DicomService.svg) | Microsoft.HealthcareApis/ workspaces/ dicomservices |
-| [Azure API for FHIR](svg/Microsoft_Healthcare_APIs/FhirService.svg) | Microsoft.HealthcareApis/ services |
-| [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
-| [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
-| [MedTech service](svg/Microsoft_Healthcare_APIs/IotConnector.svg) | Microsoft.HealthcareApis/ workspaces/ iotconnectors |
 | [FHIR service](svg/Microsoft_Healthcare_APIs/JupiterFhirService.svg) | Microsoft.HealthcareApis/ workspaces/ fhirservices |
+| [MedTech service](svg/Microsoft_Healthcare_APIs/IotConnector.svg) | Microsoft.HealthcareApis/ workspaces/ iotconnectors |
+| [Azure Health Data and AI Services](svg/Microsoft_Healthcare_APIs/HealthDataAIServices.svg) | Microsoft.Test/ healthDataAIServices |
+| [Health Data Services workspace](svg/Microsoft_Healthcare_APIs/HealthcareApisService.svg) | Microsoft.HealthcareApis/ workspaces |
+| [Azure API for FHIR](svg/Microsoft_Healthcare_APIs/FhirService.svg) | Microsoft.HealthcareApis/ services |
+| [DICOM service](svg/Microsoft_Healthcare_APIs/DicomService.svg) | Microsoft.HealthcareApis/ workspaces/ dicomservices |
 | [Devices](svg/Microsoft_Intune_Devices/DeviceEntryBladeAsset.svg) |  |
 | [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneMC.svg) |  |
 | [Intune](svg/Microsoft_Intune_DeviceSettings/IntuneFF.svg) |  |
