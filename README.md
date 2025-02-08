@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-07.
+Extracted from Azure Portal version 14.287.0.131260.250108-2305 on 2025-02-08.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -785,6 +785,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Change Analysis (preview)](svg/Microsoft_Azure_OneInventory/ResourceChange.svg) | Microsoft.Resources/ resourceChange |
 | [Resource Graph Visualizer](svg/Microsoft_Azure_OneInventory/ResourceGraphVisualizer.svg) | Microsoft.Resources/ resourceGraphVisualizer |
 | [OneMigrate](svg/Microsoft_Azure_OneMigrate/AzureOneMigrate.svg) |  |
+| [My Resource](svg/Microsoft_Azure_OnlineExperimentation/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
@@ -890,7 +891,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Operation log (classic)](svg/Microsoft_Azure_Resources/OperationLog.svg) |  |
 | [Management group](svg/Microsoft_Azure_Resources/ManagementGroups.svg) |  |
 | [GitHub](svg/Microsoft_Azure_Resources/GitHub.svg) |  |
-| [Azure Data Boundary](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
+| [Azure Data Boundaries](svg/Microsoft_Azure_Resources/AzureDataBoundary.svg) |  |
 | [Deployment](svg/Microsoft_Azure_Resources/Deployment.svg) |  |
 | [Deployment stack](svg/Microsoft_Azure_Resources/StackManagementGroup.svg) | Microsoft.Management/ managementGroups/ Microsoft.Resources/ deploymentStacks |
 | [Deployment stack](svg/Microsoft_Azure_Resources/Stack.svg) | Microsoft.Resources/ deploymentStacks |
@@ -1065,6 +1066,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
 | [Oracle Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
+| [Oracle Exascale VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exascale_vmcluster.svg) | Oracle.Database/ exadbVmClusters |
+| [Oracle Exascale DB Storage Vault](svg/Oracle_Databases_At_Azure/oracle_exascale_storage_vaults.svg) | oracle.database/ exascaledbstoragevaults |
 | [Oracle Exadata VM Cluster](svg/Oracle_Databases_At_Azure/oracle_exadata_vmcluster.svg) | oracle.database/ cloudvmclusters |
 | [Oracle Exadata Infrastructure](svg/Oracle_Databases_At_Azure/oracle_exadata_infrastructure.svg) | oracle.database/ cloudexadatainfrastructures |
 | [OracleSubscription](svg/Oracle_Databases_At_Azure/oracleSubscription.svg) | Oracle.Database/ oracleSubscriptions |
