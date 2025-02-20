@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-19.
+Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-20.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -341,25 +341,25 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) | Microsoft.Compute/ capacityReservationGroupsComputehub |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorPerformance.svg) | Microsoft.ComputeHub/ AdvisorPerformance |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorReliability.svg) | Microsoft.ComputeHub/ AdvisorReliability |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorSecurity.svg) | Microsoft.ComputeHub/ AdvisorSecurity |
-| [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
-| [Backup job](svg/Microsoft_Azure_ComputeHub/Backup.svg) | Microsoft.ComputeHub/ Backup |
-| [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Microsoft.ComputeHub/ ComputeHubMain |
-| [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
-| [Linux OS](svg/Microsoft_Azure_ComputeHub/LinuxOSType.svg) | Microsoft.ComputeHub/ LinuxOSType |
-| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderFreeTrialSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderFreeTrialSubscription |
-| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderStandardSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderStandardSubscription |
-| [Outages](svg/Microsoft_Azure_ComputeHub/Outages.svg) | Microsoft.ComputeHub/ Outages |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateDeallocated.svg) | Microsoft.ComputeHub/ PowerStateDeallocated |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateRunning.svg) | Microsoft.ComputeHub/ PowerStateRunning |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateStopped.svg) | Microsoft.ComputeHub/ PowerStateStopped |
-| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateFailedResources.svg) | Microsoft.ComputeHub/ ProvisioningStateFailedResources |
-| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateSucceededResources.svg) | Microsoft.ComputeHub/ ProvisioningStateSucceededResources |
 | [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
+| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateSucceededResources.svg) | Microsoft.ComputeHub/ ProvisioningStateSucceededResources |
+| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateFailedResources.svg) | Microsoft.ComputeHub/ ProvisioningStateFailedResources |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateStopped.svg) | Microsoft.ComputeHub/ PowerStateStopped |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateRunning.svg) | Microsoft.ComputeHub/ PowerStateRunning |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateDeallocated.svg) | Microsoft.ComputeHub/ PowerStateDeallocated |
+| [Outages](svg/Microsoft_Azure_ComputeHub/Outages.svg) | Microsoft.ComputeHub/ Outages |
+| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderStandardSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderStandardSubscription |
+| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderFreeTrialSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderFreeTrialSubscription |
+| [Linux OS](svg/Microsoft_Azure_ComputeHub/LinuxOSType.svg) | Microsoft.ComputeHub/ LinuxOSType |
+| [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
+| [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Microsoft.ComputeHub/ ComputeHubMain |
+| [Backup job](svg/Microsoft_Azure_ComputeHub/Backup.svg) | Microsoft.ComputeHub/ Backup |
+| [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorSecurity.svg) | Microsoft.ComputeHub/ AdvisorSecurity |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorReliability.svg) | Microsoft.ComputeHub/ AdvisorReliability |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorPerformance.svg) | Microsoft.ComputeHub/ AdvisorPerformance |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [Solution Manager](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) |  |
@@ -486,7 +486,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
-| [Site Bootstrap Key](svg/Microsoft_Azure_EdgeOrder/AllBootstrapConfigurationResources.svg) | microsoft.edgeorder/ bootstrapConfigurations |
+| [Site Key](svg/Microsoft_Azure_EdgeOrder/AllBootstrapConfigurationResources.svg) | microsoft.edgeorder/ bootstrapConfigurations |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AllOrderResources.svg) | Microsoft.EdgeOrder/ orderItems |
 | [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
@@ -697,40 +697,40 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Volume](svg/Microsoft_Azure_NetApp/NfsVolume.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ Volumes |
 | [VolumeGroup](svg/Microsoft_Azure_NetApp/NfsVolumeGroup.svg) | Microsoft.NetApp/ netAppAccounts/ volumeGroups |
 | [User and group quota](svg/Microsoft_Azure_NetApp/NfsVolumeQuotaRule.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools/ volumes/ volumeQuotaRules |
-| [Application security group](svg/Microsoft_Azure_Network/ApplicationSecurityGroup.svg) | Microsoft.Network/ applicationSecurityGroups |
-| [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
-| [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
-| [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
-| [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
-| [DNS zone](svg/Microsoft_Azure_Network/DnsZone.svg) | Microsoft.Network/ dnsZones |
-| [Guest Assignment](svg/Microsoft_Azure_Network/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
-| [Guest Assignment](svg/Microsoft_Azure_Network/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
-| [Guest Assignment](svg/Microsoft_Azure_Network/VMSSGuestAssignment.svg) | Microsoft.Compute/ virtualMachineScaleSets/ providers/ guestConfigurationAssignments |
-| [Guest Assignment](svg/Microsoft_Azure_Network/VMWareGuestAssignment.svg) | Microsoft.ConnectedVMwarevSphere/ virtualMachines/ providers/ guestConfigurationAssignments |
-| [Load balancer](svg/Microsoft_Azure_Network/LoadBalancer.svg) | Microsoft.Network/ LoadBalancers |
-| [Load balancing and content delivery](svg/Microsoft_Azure_Network/LoadBalancerAndContentDelivery.svg) |  |
-| [Load balancing - help me choose](svg/Microsoft_Azure_Network/LoadBalancingHub.svg) |  |
-| [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
-| [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
-| [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
-| [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
-| [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcherResource.svg) | microsoft.network/ networkwatchers |
-| [Flow log](svg/Microsoft_Azure_Network/NSGFlowLog.svg) | microsoft.network/ networkwatchers/ flowlogs |
-| [Private endpoint](svg/Microsoft_Azure_Network/PrivateEndpoint.svg) | Microsoft.Network/ privateEndpoints |
-| [Application Gateway](svg/Microsoft_Azure_Network/PrivateLinkAssociations.svg) | Microsoft.Management/ managementGroups/ providers/ privateLinkAssociations |
-| [Private Link](svg/Microsoft_Azure_Network/PrivateLinkCenter.svg) |  |
-| [Private link service](svg/Microsoft_Azure_Network/PrivateLinkService.svg) | Microsoft.Network/ privateLinkServices |
-| [Public IP address](svg/Microsoft_Azure_Network/PublicIpAddress.svg) | Microsoft.Network/ PublicIpAddresses |
-| [Public IP Prefix](svg/Microsoft_Azure_Network/PublicIpPrefix.svg) | Microsoft.Network/ publicIpPrefixes |
-| [Reserved IP address (classic)](svg/Microsoft_Azure_Network/ReservedIpAddress.svg) | Microsoft.ClassicNetwork/ reservedIps |
-| [Resource management private link](svg/Microsoft_Azure_Network/ResourceManagementPrivateLink.svg) | Microsoft.Authorization/ resourceManagementPrivateLinks |
-| [Route table](svg/Microsoft_Azure_Network/RouteTable.svg) | Microsoft.Network/ routeTables |
-| [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
-| [Virtual network](svg/Microsoft_Azure_Network/VirtualNetwork.svg) | Microsoft.Network/ virtualNetworks |
-| [Virtual network terminal access point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
-| [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
-| [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Front Door WAF policy](svg/Microsoft_Azure_Network/FrontdoorWafPolicy.svg) | Microsoft.Network/ FrontDoorWebApplicationFirewallPolicies |
+| [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
+| [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
+| [Virtual network terminal access point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
+| [Virtual network](svg/Microsoft_Azure_Network/VirtualNetwork.svg) | Microsoft.Network/ virtualNetworks |
+| [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
+| [Route table](svg/Microsoft_Azure_Network/RouteTable.svg) | Microsoft.Network/ routeTables |
+| [Resource management private link](svg/Microsoft_Azure_Network/ResourceManagementPrivateLink.svg) | Microsoft.Authorization/ resourceManagementPrivateLinks |
+| [Reserved IP address (classic)](svg/Microsoft_Azure_Network/ReservedIpAddress.svg) | Microsoft.ClassicNetwork/ reservedIps |
+| [Public IP Prefix](svg/Microsoft_Azure_Network/PublicIpPrefix.svg) | Microsoft.Network/ publicIpPrefixes |
+| [Public IP address](svg/Microsoft_Azure_Network/PublicIpAddress.svg) | Microsoft.Network/ PublicIpAddresses |
+| [Private link service](svg/Microsoft_Azure_Network/PrivateLinkService.svg) | Microsoft.Network/ privateLinkServices |
+| [Private Link](svg/Microsoft_Azure_Network/PrivateLinkCenter.svg) |  |
+| [Application Gateway](svg/Microsoft_Azure_Network/PrivateLinkAssociations.svg) | Microsoft.Management/ managementGroups/ providers/ privateLinkAssociations |
+| [Private endpoint](svg/Microsoft_Azure_Network/PrivateEndpoint.svg) | Microsoft.Network/ privateEndpoints |
+| [Flow log](svg/Microsoft_Azure_Network/NSGFlowLog.svg) | microsoft.network/ networkwatchers/ flowlogs |
+| [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcherResource.svg) | microsoft.network/ networkwatchers |
+| [Network Watcher](svg/Microsoft_Azure_Network/NetworkWatcher.svg) |  |
+| [Network security group](svg/Microsoft_Azure_Network/NetworkSecurityGroup.svg) | Microsoft.Network/ NetworkSecurityGroups |
+| [Network interface](svg/Microsoft_Azure_Network/NetworkInterface.svg) | Microsoft.Network/ networkinterfaces |
+| [NAT gateway](svg/Microsoft_Azure_Network/NatGateway.svg) | Microsoft.Network/ natGateways |
+| [Load balancing - help me choose](svg/Microsoft_Azure_Network/LoadBalancingHub.svg) |  |
+| [Load balancing and content delivery](svg/Microsoft_Azure_Network/LoadBalancerAndContentDelivery.svg) |  |
+| [Load balancer](svg/Microsoft_Azure_Network/LoadBalancer.svg) | Microsoft.Network/ LoadBalancers |
+| [Guest Assignment](svg/Microsoft_Azure_Network/VMWareGuestAssignment.svg) | Microsoft.ConnectedVMwarevSphere/ virtualMachines/ providers/ guestConfigurationAssignments |
+| [Guest Assignment](svg/Microsoft_Azure_Network/VMSSGuestAssignment.svg) | Microsoft.Compute/ virtualMachineScaleSets/ providers/ guestConfigurationAssignments |
+| [Guest Assignment](svg/Microsoft_Azure_Network/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
+| [Guest Assignment](svg/Microsoft_Azure_Network/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
+| [DNS zone](svg/Microsoft_Azure_Network/DnsZone.svg) | Microsoft.Network/ dnsZones |
+| [DDoS protection plan](svg/Microsoft_Azure_Network/DdosProtectionPlan.svg) | Microsoft.Network/ ddosProtectionPlans |
+| [Custom IP Prefix](svg/Microsoft_Azure_Network/CustomIpPrefix.svg) | Microsoft.Network/ customIpPrefixes |
+| [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
+| [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
+| [Application security group](svg/Microsoft_Azure_Network/ApplicationSecurityGroup.svg) | Microsoft.Network/ applicationSecurityGroups |
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
 | [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
 | [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
@@ -780,7 +780,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Change Analysis (preview)](svg/Microsoft_Azure_OneInventory/ResourceChange.svg) | Microsoft.Resources/ resourceChange |
 | [My Resource](svg/Microsoft_Azure_OneInventory/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [OneMigrate](svg/Microsoft_Azure_OneMigrate/AzureOneMigrate.svg) |  |
-| [My Resource](svg/Microsoft_Azure_OnlineExperimentation/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Online Experimentation Workspace](svg/Microsoft_Azure_OnlineExperimentation/OnlineExperimentationWorkspace.svg) | microsoft.onlineexperimentation/ workspaces |
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
