@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-22.
+Extracted from Azure Portal version 15.94.1.115.94.0.14692.250204-1622 on 2025-02-23.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -290,9 +290,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
 | [Change Analysis](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
-| [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
-| [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
+| [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
+| [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Disk (classic)](svg/Microsoft_Azure_Classic_Compute/Disks.svg) | Microsoft.ClassicStorage/ storageAccounts/ disks |
 | [OS image (classic)](svg/Microsoft_Azure_Classic_Compute/OsUserImages.svg) | Microsoft.ClassicStorage/ storageAccounts/ osimages |
@@ -341,25 +341,25 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) | Microsoft.Compute/ capacityReservationGroupsComputehub |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
-| [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
-| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateSucceededResources.svg) | Microsoft.ComputeHub/ ProvisioningStateSucceededResources |
-| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateFailedResources.svg) | Microsoft.ComputeHub/ ProvisioningStateFailedResources |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateStopped.svg) | Microsoft.ComputeHub/ PowerStateStopped |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateRunning.svg) | Microsoft.ComputeHub/ PowerStateRunning |
-| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateDeallocated.svg) | Microsoft.ComputeHub/ PowerStateDeallocated |
-| [Outages](svg/Microsoft_Azure_ComputeHub/Outages.svg) | Microsoft.ComputeHub/ Outages |
-| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderStandardSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderStandardSubscription |
-| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderFreeTrialSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderFreeTrialSubscription |
-| [Linux OS](svg/Microsoft_Azure_ComputeHub/LinuxOSType.svg) | Microsoft.ComputeHub/ LinuxOSType |
-| [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
-| [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Microsoft.ComputeHub/ ComputeHubMain |
-| [Backup job](svg/Microsoft_Azure_ComputeHub/Backup.svg) | Microsoft.ComputeHub/ Backup |
-| [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorSecurity.svg) | Microsoft.ComputeHub/ AdvisorSecurity |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorReliability.svg) | Microsoft.ComputeHub/ AdvisorReliability |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorPerformance.svg) | Microsoft.ComputeHub/ AdvisorPerformance |
-| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
 | [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorCost.svg) | Microsoft.ComputeHub/ AdvisorCost |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorOperationalExcellence.svg) | Microsoft.ComputeHub/ AdvisorOperationalExcellence |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorPerformance.svg) | Microsoft.ComputeHub/ AdvisorPerformance |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorReliability.svg) | Microsoft.ComputeHub/ AdvisorReliability |
+| [Recommendations](svg/Microsoft_Azure_ComputeHub/AdvisorSecurity.svg) | Microsoft.ComputeHub/ AdvisorSecurity |
+| [All resources](svg/Microsoft_Azure_ComputeHub/AllResources.svg) | Microsoft.ComputeHub/ all |
+| [Backup job](svg/Microsoft_Azure_ComputeHub/Backup.svg) | Microsoft.ComputeHub/ Backup |
+| [Compute infrastructure](svg/Microsoft_Azure_ComputeHub/ComputeHub.svg) | Microsoft.ComputeHub/ ComputeHubMain |
+| [Health events](svg/Microsoft_Azure_ComputeHub/HealthEvents.svg) | Microsoft.ComputeHub/ HealthEvents |
+| [Linux OS](svg/Microsoft_Azure_ComputeHub/LinuxOSType.svg) | Microsoft.ComputeHub/ LinuxOSType |
+| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderFreeTrialSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderFreeTrialSubscription |
+| [Microsoft defender](svg/Microsoft_Azure_ComputeHub/MicrosoftDefenderStandardSubscription.svg) | Microsoft.ComputeHub/ MicrosoftDefenderStandardSubscription |
+| [Outages](svg/Microsoft_Azure_ComputeHub/Outages.svg) | Microsoft.ComputeHub/ Outages |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateDeallocated.svg) | Microsoft.ComputeHub/ PowerStateDeallocated |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateRunning.svg) | Microsoft.ComputeHub/ PowerStateRunning |
+| [Power states](svg/Microsoft_Azure_ComputeHub/PowerStateStopped.svg) | Microsoft.ComputeHub/ PowerStateStopped |
+| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateFailedResources.svg) | Microsoft.ComputeHub/ ProvisioningStateFailedResources |
+| [Provisioning states](svg/Microsoft_Azure_ComputeHub/ProvisioningStateSucceededResources.svg) | Microsoft.ComputeHub/ ProvisioningStateSucceededResources |
+| [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
 | [Confidential Ledger](svg/Microsoft_Azure_ConfidentialLedger/ConfidentialLedger.svg) | Microsoft.ConfidentialLedger/ ledgers |
 | [Managed CCF App](svg/Microsoft_Azure_ConfidentialLedger/ManagedCCF.svg) | Microsoft.ConfidentialLedger/ ManagedCCFs |
 | [Solution Manager](svg/Microsoft_Azure_ConfigManager/ConfigManager.svg) |  |
@@ -796,7 +796,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [L2 Connection](svg/Microsoft_Azure_Orbital/L2Connections.svg) | Microsoft.Orbital/ l2Connections |
 | [Azure Orbital](svg/Microsoft_Azure_Orbital/AzureOrbital.svg) |  |
 | [Spacecraft](svg/Microsoft_Azure_Orbital/Spacecrafts.svg) | Microsoft.Orbital/ spacecrafts |
-| [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
+| [Azure Database for PostgreSQL - Flexible Server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
 | [My Resource](svg/Microsoft_Azure_PaasServerless/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
@@ -1007,7 +1007,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
-| [Connected Cache for Enterprise & Education (early preview)](svg/Microsoft_ConnectedCache_Ent/DoincResource.svg) | Microsoft.ConnectedCache/ enterpriseCustomers |
 | [Connected Cache for Enterprise & Education](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers |
 | [MCC CacheNode for Enterprise](svg/Microsoft_ConnectedCache_Enterprise/MccEnterpriseCacheNodeResource.svg) | Microsoft.ConnectedCache/ enterpriseMccCustomers/ enterpriseMccCacheNodes |
 | [Connected Cache for ISP](svg/Microsoft_ConnectedCache_ISP/MCCIspResource.svg) | Microsoft.ConnectedCache/ ispCustomers |
@@ -1058,7 +1057,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
 | [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
 | [Log Analytics query pack](svg/Microsoft_OperationsManagementSuite_Workspace/QueryPack.svg) | Microsoft.OperationalInsights/ querypacks |
-| [Genomics account](svg/Microsoft_Research_Genomics/GenomicsAccountAsset.svg) | Microsoft.Genomics/ accounts |
 | [Microsoft Security Copilot compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
