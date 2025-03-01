@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-02-28.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-01.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -574,6 +574,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Resource bridge](svg/Microsoft_Azure_HybridCompute/ResourceBridge.svg) | Microsoft.ResourceConnector/ Appliances |
 | [Azure Arc data controller](svg/Microsoft_Azure_HybridData_Platform/DataController.svg) | Microsoft.AzureArcData/ dataControllers |
 | [PostgreSQL server – Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresInstance.svg) | Microsoft.AzureArcData/ postgresInstances |
+| [MySql Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/MySqlServer.svg) | Microsoft.AzureArcData/ MySqlServer |
+| [PostgresSql Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresSqlServer.svg) | Microsoft.AzureArcData/ PostgresSqlServer |
 | [SQL managed instance - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlManagedInstance.svg) | Microsoft.AzureArcData/ sqlManagedInstances |
 | [SQL Server ESU license](svg/Microsoft_Azure_HybridData_Platform/SqlServerEsuLicense.svg) | microsoft.azurearcdata/ sqlserveresulicenses |
 | [SQL Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/SqlServerInstance.svg) | Microsoft.AzureArcData/ sqlServerInstances |
