@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-01.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-02.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -684,13 +684,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
 | [Azure Monitor workspace](svg/Microsoft_Azure_Monitoring/MonitoringAccount.svg) | microsoft.monitor/ accounts |
 | [Prometheus rule group](svg/Microsoft_Azure_Monitoring/PrometheusRuleGroup.svg) | microsoft.alertsmanagement/ prometheusrulegroups |
-| [Action group](svg/Microsoft_Azure_Monitoring_Alerts/ActionGroup.svg) | microsoft.insights/ actiongroups |
-| [Activity log alert rule](svg/Microsoft_Azure_Monitoring_Alerts/ActivityLogAlertRule.svg) | microsoft.insights/ activitylogalerts |
-| [Alert processing rule](svg/Microsoft_Azure_Monitoring_Alerts/AlertProcessingRule.svg) | microsoft.alertsmanagement/ actionrules |
-| [Alerts](svg/Microsoft_Azure_Monitoring_Alerts/Alerts.svg) |  |
-| [Log search alert rule](svg/Microsoft_Azure_Monitoring_Alerts/LogSearchAlertRule.svg) | microsoft.insights/ scheduledqueryrules |
-| [Metric alert rule](svg/Microsoft_Azure_Monitoring_Alerts/MetricAlertRule.svg) | microsoft.insights/ metricalerts |
 | [Smart detector alert rule](svg/Microsoft_Azure_Monitoring_Alerts/SmartDetectorAlertRule.svg) | microsoft.alertsmanagement/ smartdetectoralertrules |
+| [Metric alert rule](svg/Microsoft_Azure_Monitoring_Alerts/MetricAlertRule.svg) | microsoft.insights/ metricalerts |
+| [Log search alert rule](svg/Microsoft_Azure_Monitoring_Alerts/LogSearchAlertRule.svg) | microsoft.insights/ scheduledqueryrules |
+| [Alerts](svg/Microsoft_Azure_Monitoring_Alerts/Alerts.svg) |  |
+| [Alert processing rule](svg/Microsoft_Azure_Monitoring_Alerts/AlertProcessingRule.svg) | microsoft.alertsmanagement/ actionrules |
+| [Activity log alert rule](svg/Microsoft_Azure_Monitoring_Alerts/ActivityLogAlertRule.svg) | microsoft.insights/ activitylogalerts |
+| [Action group](svg/Microsoft_Azure_Monitoring_Alerts/ActionGroup.svg) | microsoft.insights/ actiongroups |
 | [NetApp account](svg/Microsoft_Azure_NetApp/NetAppAccount.svg) | Microsoft.NetApp/ netAppAccounts |
 | [Backup vault](svg/Microsoft_Azure_NetApp/NfsBackupVault.svg) | Microsoft.NetApp/ netAppAccounts/ backupVaults |
 | [Capacity pool](svg/Microsoft_Azure_NetApp/NfsPool.svg) | Microsoft.NetApp/ netAppAccounts/ capacityPools |
@@ -1029,24 +1029,24 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Apps](svg/Microsoft_Intune_DeviceSettings/AppsAsset.svg) |  |
 | [Intune for Education](svg/Microsoft_Intune_DeviceSettings/IntuneEduAsset.svg) |  |
 | [Microsoft Entra](svg/Microsoft_Intune_DeviceSettings/AADAsset.svg) |  |
-| [Alert](svg/Microsoft_Intune_Edu/Alerts.svg) |  |
-| [App](svg/Microsoft_Intune_Edu/Apps.svg) |  |
-| [Barcode scanner](svg/Microsoft_Intune_Edu/BarcodeScanner.svg) |  |
-| [Delegation](svg/Microsoft_Intune_Edu/Delegation.svg) |  |
-| [Devices](svg/Microsoft_Intune_Edu/DeviceSearch.svg) |  |
-| [Documentation](svg/Microsoft_Intune_Edu/Documentation.svg) |  |
-| [Enrollment manager](svg/Microsoft_Intune_Edu/EnrollmentAccounts.svg) |  |
-| [Intune](svg/Microsoft_Intune_Edu/FullIntune.svg) |  |
-| [Group](svg/Microsoft_Intune_Edu/Groups.svg) |  |
-| [Reports](svg/Microsoft_Intune_Edu/Reporting.svg) |  |
-| [School Data Sync](svg/Microsoft_Intune_Edu/SchoolDataSync.svg) |  |
-| [Service health](svg/Microsoft_Intune_Edu/ServiceHealthDashboard.svg) |  |
-| [Manage subscriptions](svg/Microsoft_Intune_Edu/Subscriptions.svg) |  |
-| [Help + support](svg/Microsoft_Intune_Edu/Support.svg) |  |
-| [Tenant setting](svg/Microsoft_Intune_Edu/TenantSettings.svg) |  |
-| [Term of Use](svg/Microsoft_Intune_Edu/TermsOfUse.svg) |  |
-| [Users](svg/Microsoft_Intune_Edu/UserSearch.svg) |  |
 | [Express configuration](svg/Microsoft_Intune_Edu/ExpressSetup.svg) |  |
+| [Users](svg/Microsoft_Intune_Edu/UserSearch.svg) |  |
+| [Term of Use](svg/Microsoft_Intune_Edu/TermsOfUse.svg) |  |
+| [Tenant setting](svg/Microsoft_Intune_Edu/TenantSettings.svg) |  |
+| [Help + support](svg/Microsoft_Intune_Edu/Support.svg) |  |
+| [Manage subscriptions](svg/Microsoft_Intune_Edu/Subscriptions.svg) |  |
+| [Service health](svg/Microsoft_Intune_Edu/ServiceHealthDashboard.svg) |  |
+| [School Data Sync](svg/Microsoft_Intune_Edu/SchoolDataSync.svg) |  |
+| [Reports](svg/Microsoft_Intune_Edu/Reporting.svg) |  |
+| [Group](svg/Microsoft_Intune_Edu/Groups.svg) |  |
+| [Intune](svg/Microsoft_Intune_Edu/FullIntune.svg) |  |
+| [Enrollment manager](svg/Microsoft_Intune_Edu/EnrollmentAccounts.svg) |  |
+| [Documentation](svg/Microsoft_Intune_Edu/Documentation.svg) |  |
+| [Devices](svg/Microsoft_Intune_Edu/DeviceSearch.svg) |  |
+| [Delegation](svg/Microsoft_Intune_Edu/Delegation.svg) |  |
+| [Barcode scanner](svg/Microsoft_Intune_Edu/BarcodeScanner.svg) |  |
+| [App](svg/Microsoft_Intune_Edu/Apps.svg) |  |
+| [Alert](svg/Microsoft_Intune_Edu/Alerts.svg) |  |
 | [Reports](svg/Microsoft_Intune_Enrollment/ReportsAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
