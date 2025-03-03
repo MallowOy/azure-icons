@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-02.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-03.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -547,31 +547,31 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
 | [De-identification Service](svg/Microsoft_Azure_HealthDataDeidentification/DeidService.svg) | Microsoft.HealthDataAIServices/ DeidServices |
 | [Health Model (preview)](svg/Microsoft_Azure_HealthModels/AzureHealthModel.svg) | Microsoft.HealthModel/ healthmodels |
-| [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVmV2.svg) | Microsoft.HybridCompute/ Machines/ Microsoft.ConnectedVMwarevSphere/ virtualMachineInstances |
-| [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVm.svg) | Microsoft.ConnectedVMwarevSphere/ VirtualMachines |
-| [VMware vCenter](svg/Microsoft_Azure_HybridCompute/VMwarevCenter.svg) | Microsoft.connectedVMwareVSphere/ vCenters |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
-| [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
-| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
-| [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
-| [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
-| [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
-| [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
-| [Microsoft.AwsConnector ec2 instance](svg/Microsoft_Azure_HybridCompute/microsoft_awsconnector_ec2instances_2024_08_01_preview.svg) | microsoft.hybridcompute/ machines/ microsoft.awsconnector/ ec2instances |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
-| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
-| [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
-| [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
-| [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
-| [Azure Arc virtual machine](svg/Microsoft_Azure_HybridCompute/ArcVirtualMachines.svg) | Microsoft.All/ arcVirtualMachines |
-| [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_HybridCompute/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
-| [Kubernetes hybrid - Azure Arc](svg/Microsoft_Azure_HybridCompute/ProvisionedCluster.svg) | Microsoft.HybridContainerService/ provisionedClusters |
-| [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_HybridCompute/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
-| [Kubernetes - Azure Arc](svg/Microsoft_Azure_HybridCompute/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
 | [Resource bridge](svg/Microsoft_Azure_HybridCompute/ResourceBridge.svg) | Microsoft.ResourceConnector/ Appliances |
+| [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_HybridCompute/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
+| [Kubernetes - Azure Arc](svg/Microsoft_Azure_HybridCompute/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
+| [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_HybridCompute/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
+| [Kubernetes hybrid - Azure Arc](svg/Microsoft_Azure_HybridCompute/ProvisionedCluster.svg) | Microsoft.HybridContainerService/ provisionedClusters |
+| [Azure Arc virtual machine](svg/Microsoft_Azure_HybridCompute/ArcVirtualMachines.svg) | Microsoft.All/ arcVirtualMachines |
+| [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
+| [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
+| [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
+| [Microsoft.AwsConnector ec2 instance](svg/Microsoft_Azure_HybridCompute/microsoft_awsconnector_ec2instances_2024_08_01_preview.svg) | microsoft.hybridcompute/ machines/ microsoft.awsconnector/ ec2instances |
+| [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
+| [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
+| [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
+| [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
+| [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
+| [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/PayGoEligible.svg) | Microsoft.HybridCompute/ machinesPayGo |
+| [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/SoftwareAssurance.svg) | Microsoft.HybridCompute/ machinesSoftwareAssurance |
+| [VMware vCenter](svg/Microsoft_Azure_HybridCompute/VMwarevCenter.svg) | Microsoft.connectedVMwareVSphere/ vCenters |
+| [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVm.svg) | Microsoft.ConnectedVMwarevSphere/ VirtualMachines |
+| [VMware + AVS virtual machine](svg/Microsoft_Azure_HybridCompute/VMwareVmV2.svg) | Microsoft.HybridCompute/ Machines/ Microsoft.ConnectedVMwarevSphere/ virtualMachineInstances |
 | [Azure Arc data controller](svg/Microsoft_Azure_HybridData_Platform/DataController.svg) | Microsoft.AzureArcData/ dataControllers |
 | [PostgreSQL server – Azure Arc](svg/Microsoft_Azure_HybridData_Platform/PostgresInstance.svg) | Microsoft.AzureArcData/ postgresInstances |
 | [MySql Server - Azure Arc](svg/Microsoft_Azure_HybridData_Platform/MySqlServer.svg) | Microsoft.AzureArcData/ MySqlServer |
