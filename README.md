@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-06.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-07.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -274,8 +274,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Update Manager](svg/Microsoft_Azure_Automation/UpdateCenter.svg) |  |
 | [](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
 | [App Configuration](svg/Microsoft_Azure_AzConfig/StoreResource.svg) | Microsoft.AppConfiguration/ configurationStores |
-| [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleet.svg) | microsoft.azurefleet/ fleets |
 | [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleetComputeHub.svg) | microsoft.azurefleet/ fleetsComputehub |
+| [Compute Fleet](svg/Microsoft_Azure_AzFleet/AzureFleet.svg) | microsoft.azurefleet/ fleets |
 | [Batch account](svg/Microsoft_Azure_Batch/BatchAccount.svg) | Microsoft.Batch/ batchAccounts |
 | [Business Continuity Center](svg/Microsoft_Azure_BCDRCenter/ABCCenter.svg) |  |
 | [Subscription](svg/Microsoft_Azure_Billing/Subscription.svg) | microsoft.resources/ subscriptions |
@@ -530,7 +530,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Fairfield Gardens](svg/Microsoft_Azure_FairfieldGardens/fairfieldgardens.svg) | Microsoft.FairfieldGardens/ ProvisioningResources |
 | [Provisioning policy](svg/Microsoft_Azure_FairfieldGardens/provisioningpolicies.svg) | Microsoft.FairfieldGardens/ ProvisioningResources/ ProvisioningPolicies |
 | [File share](svg/Microsoft_Azure_FileShare/FileShares.svg) | Microsoft.FileShares/ fileshares |
-| [Microsoft Firmware Analysis](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) | microsoft.iotfirmwaredefense/ workspaces |
+| [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
+| [Firmware analysis](svg/Microsoft_Azure_FIST/FirmwareDefender.svg) |  |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
 | [Global view](svg/Microsoft_Azure_GlobalView/GlobalView.svg) |  |
@@ -882,6 +883,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
 | [Service group member relationship](svg/Microsoft_Azure_Resources/ServiceGroupMembersRelationships.svg) | microsoft.relationships/ servicegroupmember |
 | [Dependency Relationship](svg/Microsoft_Azure_Resources/DependencyRelationships.svg) | microsoft.relationships/ dependencyOf |
+| [Subscription](svg/Microsoft_Azure_Resources/ResExtVirtualSubscriptions.svg) | microsoft.resources/ virtualsubscriptionsforresourcepicker |
 | [Resource Manager](svg/Microsoft_Azure_Resources/ResourceManager.svg) |  |
 | [Resource change](svg/Microsoft_Azure_Resources/ResourceChanges.svg) | Microsoft.Resources/ resourceChanges |
 | [Recycle Bin](svg/Microsoft_Azure_Resources/DeletedResources.svg) | Microsoft.Resources/ deletedResources |
@@ -957,8 +959,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecMG.svg) | Microsoft.Management/ managementgroups/ providers/ templatespecs |
 | [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecsHub.svg) |  |
 | [Deployment Script](svg/Microsoft_Azure_TemplateSpecs/DeploymentScriptHub.svg) | Microsoft.Resources/ deploymentScripts |
-| [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Overview.svg) |  |
+| [Azure Toolbox](svg/Microsoft_Azure_Toolbox/Gallery.svg) |  |
 | [Microsoft.UsageBilling accounts pipelines output selector](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_outputselectors_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines/ outputselectors |
 | [Microsoft.UsageBilling accounts pipeline](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pipelines_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pipelines |
 | [Microsoft.UsageBilling accounts pav2output](svg/Microsoft_Azure_UsageBilling/microsoft_usagebilling_accounts_pav2outputs_2023_12_01_preview.svg) | microsoft.usagebilling/ accounts/ pav2outputs |
@@ -1050,7 +1052,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reports](svg/Microsoft_Intune_Enrollment/ReportsAsset.svg) |  |
 | [Security Baselines](svg/Microsoft_Intune_Workflows/SecurityBaselineAsset.svg) |  |
 | [Endpoint security](svg/Microsoft_Intune_Workflows/SecurityManagementAsset.svg) |  |
-| [Factory Operations Agent in Azure AI](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
+| [Factory Operations Agent in Azure AI Foundry](svg/Microsoft_ManufacturingPlatform_DMM/DataManagerForManufacturing.svg) | Microsoft.ManufacturingPlatform/ ManufacturingDataServices |
 | [My Resource](svg/Microsoft_Marketplace_SolutionFinder/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
