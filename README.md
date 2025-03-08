@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-07.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-08.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -733,11 +733,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Virtual network (classic)](svg/Microsoft_Azure_Network/ClassicVirtualNetwork.svg) | Microsoft.ClassicNetwork/ virtualNetworks |
 | [Network security group (classic)](svg/Microsoft_Azure_Network/ClassicNetworkSecurityGroup.svg) | Microsoft.ClassicNetwork/ networkSecurityGroups |
 | [Application security group](svg/Microsoft_Azure_Network/ApplicationSecurityGroup.svg) | Microsoft.Network/ applicationSecurityGroups |
-| [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
-| [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
-| [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
-| [Trunked Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/TrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ trunkedNetworks |
-| [Storage Appliance (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/StorageApplianceResource.svg) | Microsoft.NetworkCloud/ storageAppliances |
 | [Operator Nexus](svg/Microsoft_Azure_NetworkCloud/OperatorNexusHub.svg) |  |
 | [Route Policy (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/RoutePoliciesResource.svg) | Microsoft.ManagedNetworkFabric/ RoutePolicies |
 | [Network Tap Rule (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkTapRuleResource.svg) | Microsoft.ManagedNetworkFabric/ networkTapRules |
@@ -760,6 +755,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Internal Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ internalNetworks |
 | [External Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ExternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ externalNetworks |
 | [Access Control List (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AccessControlListsResource.svg) | Microsoft.ManagedNetworkFabric/ accessControlLists |
+| [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
+| [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
+| [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
+| [Trunked Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/TrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ trunkedNetworks |
+| [Storage Appliance (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/StorageApplianceResource.svg) | Microsoft.NetworkCloud/ storageAppliances |
+| [Kubernetes Cluster Feature (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FeatureResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ features |
 | [Kubernetes Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NexusAksClusterResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters |
 | [Layer 3 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer3NetworksResource.svg) | Microsoft.NetworkCloud/ l3Networks |
 | [Layer 2 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer2NetworksResource.svg) | Microsoft.NetworkCloud/ l2Networks |
