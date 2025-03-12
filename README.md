@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.0.14373913.250227-1654 on 2025-03-10.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-12.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -26,13 +26,13 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Logz.io](svg/Azure_Marketplace_Liftr_Logz/Logz.svg) | Microsoft.Logz/ monitors |
 | [Logz sub account](svg/Azure_Marketplace_Liftr_Logz/LogzSubAccount.svg) | Microsoft.Logz/ monitors/ accounts |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
-| [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | ArizeAi.ObservabilityEval/ organizations |
-| [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
-| [Commvault Overview](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
-| [Azure Native LambdaTest Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
-| [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
-| [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | Pinecone.VectorDb/ organizations |
 | [Azure Native WeightsAndBiases Cloud Service](svg/Azure_MarketPlace_NativeISVService/WeightsAndBiases.svg) | Microsoft.WeightsAndBiases/ instances |
+| [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | Pinecone.VectorDb/ organizations |
+| [MongoDB Atlas Organization](svg/Azure_MarketPlace_NativeISVService/MongoDB.svg) | MongoDB.Atlas/ organizations |
+| [Azure Native LambdaTest Cloud Service](svg/Azure_MarketPlace_NativeISVService/LambdaTest.svg) | LambdaTest.HyperExecute/ organizations |
+| [Commvault Overview](svg/Azure_MarketPlace_NativeISVService/CommvaultOverview.svg) |  |
+| [Commvault Cloud Account](svg/Azure_MarketPlace_NativeISVService/CommvaultCloudAccounts.svg) | Commvault.ContentStore/ cloudAccounts |
+| [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | ArizeAi.ObservabilityEval/ organizations |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
@@ -269,6 +269,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
 | [](svg/Microsoft_Azure_Automation/Variable.svg) |  |
+| [Change Tracking and Inventory](svg/Microsoft_Azure_Automation/ChangeTrackingCenter.svg) |  |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
 | [Azure Update Manager](svg/Microsoft_Azure_Automation/UpdateCenter.svg) |  |
@@ -493,7 +494,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
-| [Integration Service Environment](svg/Microsoft_Azure_EMA/IntegrationServiceEnvironment.svg) | Microsoft.Logic/ integrationServiceEnvironments |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
 | [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
 | [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
