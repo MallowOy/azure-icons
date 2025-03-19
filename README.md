@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-18.
+Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-19.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -477,6 +477,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
+| [Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
 | [Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/DocumentDBDatabaseAccount.svg) | Microsoft.DocumentDb/ databaseAccounts |
 | [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
@@ -590,6 +591,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft.Network/virtualHub](svg/Microsoft_Azure_HybridNetworking/VirtualRouter.svg) | Microsoft.Network/ virtualHubs |
 | [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGateway.svg) | Microsoft.Network/ virtualNetworkGateways |
 | [Route filter](svg/Microsoft_Azure_HybridNetworking/RouteFilter.svg) | Microsoft.Network/ routeFilters |
+| [Network Security](svg/Microsoft_Azure_HybridNetworking/NetworkSecurity.svg) |  |
 | [Mesh VPN](svg/Microsoft_Azure_HybridNetworking/MeshVpn.svg) | Microsoft.NetworkFunction/ meshVpns |
 | [Local network gateway](svg/Microsoft_Azure_HybridNetworking/LocalNetworkGateway.svg) | Microsoft.Network/ localnetworkgateways |
 | [IP Group](svg/Microsoft_Azure_HybridNetworking/IpGroups.svg) | Microsoft.Network/ ipGroups |
@@ -608,8 +610,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Infrastructure as Code Automation](svg/Microsoft_Azure_IacAutomation/ArcIacAutomation.svg) | Microsoft.DevHub/ iacProfiles |
 | [My Resource](svg/Microsoft_Azure_IdentityGovernance/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [IoT Central Application](svg/Microsoft_Azure_IoTCentral/IoTApps.svg) | Microsoft.IoTCentral/ IoTApps |
-| [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [IoT Hub](svg/Microsoft_Azure_IotHub/IotHubs.svg) | Microsoft.Devices/ IotHubs |
+| [Azure IoT Hub Device Provisioning Service (DPS)](svg/Microsoft_Azure_IotHub/DeviceProvisioning.svg) | Microsoft.Devices/ ProvisioningServices |
 | [Azure IoT Operations](svg/Microsoft_Azure_IoTOperations/IoTOperations.svg) | Microsoft.IoTOperations/ instances |
 | [Microsoft Defender for IoT](svg/Microsoft_Azure_IoT_Defender/IoTDefender.svg) |  |
 | [IP address pool](svg/Microsoft_Azure_IPAddressManager/IPAMPools.svg) | Microsoft.Network/ networkManagers/ ipamPools |
@@ -623,8 +625,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
 | [Azure Data Explorer Database](svg/Microsoft_Azure_Kusto/KustoClusterDatabase.svg) | Microsoft.Kusto/ clusters/ databases |
 | [Azure Data Explorer Cluster](svg/Microsoft_Azure_Kusto/KustoCluster.svg) | Microsoft.Kusto/ clusters |
-| [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Azure Maps Account](svg/Microsoft_Azure_LocationServices/Maps.svg) | Microsoft.Maps/ accounts |
+| [Azure Maps Creator Resource](svg/Microsoft_Azure_LocationServices/Creator.svg) | Microsoft.Maps/ accounts/ creators |
 | [Customer Lockbox for Microsoft Azure](svg/Microsoft_Azure_Lockbox/AzureLockbox.svg) |  |
 | [Maintenance Configuration](svg/Microsoft_Azure_Maintenance/MaintenanceConfiguration.svg) | Microsoft.Maintenance/ maintenanceConfigurations |
 | [Azure Key Vault Managed HSM](svg/Microsoft_Azure_ManagedHSM/ManagedHSM.svg) | Microsoft.KeyVault/ managedHSMs |
@@ -1089,7 +1091,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
 | [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
 | [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
-| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
+| [Fleet managed database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
 | [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
 | [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
 | [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
