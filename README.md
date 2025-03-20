@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.118.0.1016132058.250212-1352 on 2025-03-19.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-20.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -591,7 +591,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft.Network/virtualHub](svg/Microsoft_Azure_HybridNetworking/VirtualRouter.svg) | Microsoft.Network/ virtualHubs |
 | [Virtual network gateway](svg/Microsoft_Azure_HybridNetworking/VirtualNetworkGateway.svg) | Microsoft.Network/ virtualNetworkGateways |
 | [Route filter](svg/Microsoft_Azure_HybridNetworking/RouteFilter.svg) | Microsoft.Network/ routeFilters |
-| [Network Security](svg/Microsoft_Azure_HybridNetworking/NetworkSecurity.svg) |  |
 | [Mesh VPN](svg/Microsoft_Azure_HybridNetworking/MeshVpn.svg) | Microsoft.NetworkFunction/ meshVpns |
 | [Local network gateway](svg/Microsoft_Azure_HybridNetworking/LocalNetworkGateway.svg) | Microsoft.Network/ localnetworkgateways |
 | [IP Group](svg/Microsoft_Azure_HybridNetworking/IpGroups.svg) | Microsoft.Network/ ipGroups |
@@ -1091,7 +1090,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Instance pool](svg/SqlAzureExtension/InstancePool.svg) | Microsoft.Sql/ instancePools |
 | [tier](svg/SqlAzureExtension/Tiers.svg) | Microsoft.DatabaseFleetManager/ fleets/ tiers |
 | [Fleetspaces](svg/SqlAzureExtension/Fleetspace.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces |
-| [Fleet managed database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
+| [Fleet Managed Database](svg/SqlAzureExtension/FleetDatabase.svg) | Microsoft.DatabaseFleetManager/ fleets/ fleetspaces/ databases |
 | [Database fleet manager](svg/SqlAzureExtension/DatabaseFleetManager.svg) | Microsoft.DatabaseFleetManager/ fleets |
 | [SQL elastic pool](svg/SqlAzureExtension/ElasticPool.svg) | Microsoft.Sql/ servers/ elasticpools |
 | [Elastic Job agent](svg/SqlAzureExtension/JobAgent.svg) | Microsoft.Sql/ servers/ jobAgents |
