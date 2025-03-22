@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-21.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-22.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -543,8 +543,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
 | [Billing subscription](svg/Microsoft_Azure_GTM/BillingSubscriptions.svg) |  |
 | [Billing access control (IAM)](svg/Microsoft_Azure_GTM/AccessControl.svg) |  |
-| [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) | Microsoft.HDInsight/ clusterpools |
-| [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) | Microsoft.HDInsight/ clusterpools/ clusters |
+| [Azure HDInsight on AKS cluster pool](svg/Microsoft_Azure_HDInsight/HDInsightClusterPool.svg) |  |
+| [Azure HDInsight on AKS cluster](svg/Microsoft_Azure_HDInsight/HDInsightClusterGen2.svg) |  |
 | [HDInsight cluster](svg/Microsoft_Azure_HDInsight/HDInsightCluster.svg) | Microsoft.HDInsight/ clusters |
 | [Service Health](svg/Microsoft_Azure_Health/AzureHealth.svg) |  |
 | [Healthcare agent service](svg/Microsoft_Azure_HealthBot/HealthBot.svg) | Microsoft.HealthBot/ healthBots |
@@ -945,6 +945,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Storage account (classic)](svg/Microsoft_Azure_Storage/ClassicStorageAccount.svg) | Microsoft.ClassicStorage/ StorageAccounts |
 | [HPC cache](svg/Microsoft_Azure_StorageCache/StorageCache.svg) | Microsoft.StorageCache/ caches |
 | [Azure Managed Lustre](svg/Microsoft_Azure_StorageCache/AmlFileSystems.svg) | Microsoft.StorageCache/ amlFilesystems |
+| [Storage Discovery workspace](svg/Microsoft_Azure_StorageDiscovery/StorageDiscovery.svg) | Microsoft.StorageDiscovery/ storageDiscoveryWorkspaces |
 | [Storage mover](svg/Microsoft_Azure_StorageMover/StorageMover.svg) | Microsoft.StorageMover/ storageMovers |
 | [Storage task - Azure Storage Actions](svg/Microsoft_Azure_StorageTasks/StorageTasks.svg) | Microsoft.StorageActions/ storageTasks |
 | [Azure Storage Action](svg/Microsoft_Azure_StorageTasks/AzureStorageActions.svg) |  |
