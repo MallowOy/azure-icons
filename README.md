@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-24.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -616,10 +616,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Defender for IoT](svg/Microsoft_Azure_IoT_Defender/IoTDefender.svg) |  |
 | [IP address pool](svg/Microsoft_Azure_IPAddressManager/IPAMPools.svg) | Microsoft.Network/ networkManagers/ ipamPools |
 | [Storage Sync Service](svg/Microsoft_Azure_Kailani/SyncServiceAsset.svg) | Microsoft.StorageSync/ storageSyncServices |
-| [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
-| [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
-| [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Secret](svg/Microsoft_Azure_KeyVault/Secret.svg) |  |
+| [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
+| [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
+| [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
@@ -779,7 +779,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
-| [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
+| [Network Security Perimeter Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
