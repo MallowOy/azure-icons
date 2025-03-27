@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-26.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-27.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -291,7 +291,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Endpoint](svg/Microsoft_Azure_Cdn/Endpoint.svg) | microsoft.cdn/ profiles/ endpoints |
 | [Custom domain](svg/Microsoft_Azure_Cdn/CustomDomain.svg) | microsoft.cdn/ profiles/ endpoints/ customdomains |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Cdn/CdnProfile.svg) | microsoft.cdn/ profiles |
-| [Change Analysis](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
+| [Change Analysis (classic)](svg/Microsoft_Azure_ChangeAnalysis/AzureChangeAnalysis.svg) |  |
 | [Agent Private Access](svg/Microsoft_Azure_Chaos/privateAccess.svg) | microsoft.chaos/ privateaccesses |
 | [Chaos Studio](svg/Microsoft_Azure_Chaos/chaosStudio.svg) |  |
 | [Chaos Experiment](svg/Microsoft_Azure_Chaos/chaosExperimentResource.svg) | microsoft.chaos/ experiments |
