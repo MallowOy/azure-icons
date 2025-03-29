@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-28.
+Extracted from Azure Portal version 15.130.1.115.130.0.118044.250312-0219 on 2025-03-29.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -274,6 +274,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Change Tracking and Inventory](svg/Microsoft_Azure_Automation/ChangeTrackingCenter.svg) |  |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/GuestAssignment.svg) | Microsoft.Compute/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Automation/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
+| [Maintenance configuration (preview)](svg/Microsoft_Azure_Automation/MaintenanceConfigurationAUMasset.svg) | microsoft.maintenance/ maintenanceconfigurationsBladeResource |
 | [Azure Update Manager](svg/Microsoft_Azure_Automation/UpdateCenter.svg) |  |
 | [](svg/Microsoft_Azure_Automation/UpdateAgentTroubleshooting.svg) |  |
 | [App Configuration](svg/Microsoft_Azure_AzConfig/StoreResource.svg) | Microsoft.AppConfiguration/ configurationStores |
