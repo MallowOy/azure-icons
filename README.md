@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.130.5.115.130.0.11225.250328-2253 on 2025-04-02.
+Extracted from Azure Portal version 15.130.5.115.130.0.11225.250328-2253 on 2025-04-03.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -64,7 +64,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Entra Named locations](svg/Microsoft_AAD_ConditionalAccess/NamedLocationsRootAsset.svg) |  |
 | [Microsoft Entra Authentication Strengths](svg/Microsoft_AAD_ConditionalAccess/AuthenticationStrengthsRootAsset.svg) |  |
 | [Microsoft Entra Conditional Access](svg/Microsoft_AAD_ConditionalAccess/PolicyRootAsset.svg) |  |
-| [Cross-tenant Synchronization](svg/Microsoft_AAD_Connect_Provisioning/CrossTenantSynchronizationMainMenuBlade.svg) |  |
 | [Verified ID](svg/Microsoft_AAD_DecentralizedIdentity/PortableIdentityCards.svg) |  |
 | [Microsoft Entra Domain Services](svg/Microsoft_AAD_DomainServices/AADDomainService.svg) | Microsoft.AAD/ domainServices |
 | [Identity Governance](svg/Microsoft_AAD_ERM/RootAsset.svg) |  |
