@@ -1,16 +1,16 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.0.1 on 2025-04-23.
+Extracted from Azure Portal version 15.190.0.1 on 2025-04-24.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
 | Icon | Type |
 | --- | --- |
-| [Application Insights](svg/AppInsightsExtension/ApplicationInsights.svg) | microsoft.insights/ components |
-| [Azure Monitor Private Link Scope](svg/AppInsightsExtension/PrivateLinkScope.svg) | Microsoft.Insights/ privateLinkScopes |
-| [Availability test](svg/AppInsightsExtension/WebTest.svg) | microsoft.insights/ webtests |
-| [Azure Workbook](svg/AppInsightsExtension/Workbooks.svg) | microsoft.insights/ workbooks |
 | [Azure Workbook Template](svg/AppInsightsExtension/WorkbookTemplates.svg) | microsoft.insights/ workbooktemplates |
+| [Azure Workbook](svg/AppInsightsExtension/Workbooks.svg) | microsoft.insights/ workbooks |
+| [Availability test](svg/AppInsightsExtension/WebTest.svg) | microsoft.insights/ webtests |
+| [Azure Monitor Private Link Scope](svg/AppInsightsExtension/PrivateLinkScope.svg) | Microsoft.Insights/ privateLinkScopes |
+| [Application Insights](svg/AppInsightsExtension/ApplicationInsights.svg) | microsoft.insights/ components |
 | [Azure Spring Apps](svg/AppPlatformExtension/AppPlatformAsset.svg) | Microsoft.AppPlatform/ Spring |
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
 | [Redis Enterprise database](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
@@ -206,7 +206,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Groups](svg/Microsoft_AAD_IAM/GroupsManagement.svg) |  |
 | [Tenant properties](svg/Microsoft_AAD_IAM/TenantProperties.svg) |  |
 | [User settings](svg/Microsoft_AAD_IAM/DirectoryUserSettings.svg) |  |
-| [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/DirectoriesADConnect.svg) |  |
 | [Create custom Microsoft Entra roles](svg/Microsoft_AAD_IAM/CreateCustomRole.svg) |  |
 | [External Identities](svg/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade.svg) |  |
 | [Microsoft Entra ID](svg/Microsoft_AAD_IAM/AzureActiveDirectory.svg) |  |
@@ -375,6 +374,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
+| [Managed namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ namespaces |
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
