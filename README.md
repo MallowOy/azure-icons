@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.0.1 on 2025-04-24.
+Extracted from Azure Portal version 15.190.0.1 on 2025-04-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -206,6 +206,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Groups](svg/Microsoft_AAD_IAM/GroupsManagement.svg) |  |
 | [Tenant properties](svg/Microsoft_AAD_IAM/TenantProperties.svg) |  |
 | [User settings](svg/Microsoft_AAD_IAM/DirectoryUserSettings.svg) |  |
+| [Microsoft Entra Connect](svg/Microsoft_AAD_IAM/DirectoriesADConnect.svg) |  |
 | [Create custom Microsoft Entra roles](svg/Microsoft_AAD_IAM/CreateCustomRole.svg) |  |
 | [External Identities](svg/Microsoft_AAD_IAM/CompanyRelationshipsMenuBlade.svg) |  |
 | [Microsoft Entra ID](svg/Microsoft_AAD_IAM/AzureActiveDirectory.svg) |  |
@@ -783,8 +784,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [OneMigrate](svg/Microsoft_Azure_OneMigrate/AzureOneMigrate.svg) |  |
 | [Online Experimentation Workspace](svg/Microsoft_Azure_OnlineExperimentation/OnlineExperimentationWorkspace.svg) | microsoft.onlineexperimentation/ workspaces |
 | [Azure Data Manager for Energy](svg/Microsoft_Azure_OpenEnergyPlatform/OpenEnergyResource.svg) | Microsoft.OpenEnergyPlatform/ energyServices |
-| [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/AquilaExtensionResource.svg) | Microsoft.Scom/ managedInstances |
+| [SCOM managed instance](svg/Microsoft_Azure_OperationsMgr/Aquila.svg) |  |
 | [Azure Orbital](svg/Microsoft_Azure_Orbital/AzureOrbital.svg) |  |
 | [L2 Connection](svg/Microsoft_Azure_Orbital/L2Connections.svg) | Microsoft.Orbital/ l2Connections |
 | [Ground Station](svg/Microsoft_Azure_Orbital/GroundStations.svg) | Microsoft.Orbital/ GroundStations |
@@ -991,8 +992,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Configuration Group Value](svg/Microsoft_Azure_VnfManager/AosmCgv.svg) | Microsoft.HybridNetwork/ configurationGroupValues |
 | [Wave Migration](svg/Microsoft_Azure_WaveMigration/WaveMigrationResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Winfield  Preview](svg/Microsoft_Azure_Winfields/Winfields.svg) | private.edgeinternal/ winfields |
-| [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Microsoft.Workloads insight](svg/Microsoft_Azure_WorkloadInsight/microsoft_workloads_insights_2022_10_15_preview.svg) | microsoft.workloads/ insights |
+| [MARIO](svg/Microsoft_Azure_WorkloadInsight/mario.svg) |  |
 | [Azure Monitor for SAP Solutions (classic)](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV1.svg) | Microsoft.HanaOnAzure/ sapMonitors |
 | [Azure Monitor for SAP solutions](svg/Microsoft_Azure_WorkloadMonitor/SapMonitorV2.svg) | Microsoft.Workloads/ monitors |
 | [Azure Virtual Desktop](svg/Microsoft_Azure_WVD/WvdManager.svg) |  |
