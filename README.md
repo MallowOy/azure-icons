@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.0.1 on 2025-04-26.
+Extracted from Azure Portal version 15.190.0.1 on 2025-04-27.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -215,18 +215,18 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
 | [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
-| [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ edgeNodePools |
-| [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
-| [Azure Local Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
-| [Azure Local Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
-| [Azure Local Marketplace Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIMarketplaceGalleryImage.svg) | Microsoft.AzureStackHCI/ marketplacegalleryImages |
-| [Azure Local VM Network Interface](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkInterface.svg) | Microsoft.AzureStackHCI/ NetworkInterfaces |
-| [Azure Local Network Security Group ](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkSecurityGroup.svg) | Microsoft.AzureStackHCI/ networkSecurityGroups |
-| [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIResource.svg) | Microsoft.AzureStackHCI/ clusters |
-| [Azure Local Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
-| [Azure Local Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
-| [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
+| [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
+| [Azure Local Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
+| [Azure Local Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
+| [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIResource.svg) | Microsoft.AzureStackHCI/ clusters |
+| [Azure Local Network Security Group](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkSecurityGroup.svg) | Microsoft.AzureStackHCI/ networkSecurityGroups |
+| [Azure Local VM Network Interface](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkInterface.svg) | Microsoft.AzureStackHCI/ NetworkInterfaces |
+| [Azure Local Marketplace Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIMarketplaceGalleryImage.svg) | Microsoft.AzureStackHCI/ marketplacegalleryImages |
+| [Azure Local Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
+| [Azure Local Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIGalleryImage.svg) | Microsoft.AzureStackHCI/ galleryImages |
+| [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCI.svg) |  |
+| [Azure Stack  Preview](svg/Microsoft_AzureStackHCI_PortalExtension/AzureEdgeNodePool.svg) | Microsoft.AzureStackHCI/ edgeNodePools |
 | [AszLabHardware Lab Server](svg/Microsoft_AzureStack_LabHardware/LabServers.svg) | private.aszlabhardware/ labservers |
 | [AszLabHardware Reservation](svg/Microsoft_AzureStack_LabHardware/Reservations.svg) | private.aszlabhardware/ reservations |
 | [AszLabHardware Server](svg/Microsoft_AzureStack_LabHardware/Servers.svg) | private.aszlabhardware/ servers |
@@ -461,7 +461,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
-| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
@@ -859,6 +858,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
 | [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBrowseAsset.svg) |  |
 | [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules |
+| [Credit](svg/Microsoft_Azure_Reservations/CreditBrowseAsset.svg) | Microsoft.BillingBenefits/ credits |
 | [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
 | [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
@@ -924,8 +924,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
 | [SignalR](svg/Microsoft_Azure_SignalR/SignalR.svg) | Microsoft.SignalRService/ SignalR |
-| [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
+| [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
 | [Storage browser](svg/Microsoft_Azure_Storage/StorageBrowser.svg) |  |
@@ -1053,10 +1053,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Skylarc](svg/Microsoft_OneFleet_DataHub/Skylark.svg) |  |
 | [Grip](svg/Microsoft_OneFleet_DataHub/Grip.svg) |  |
 | [AzPubSub](svg/Microsoft_OneFleet_DataHub/AzPubSub.svg) |  |
-| [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
-| [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
-| [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
 | [Log Analytics query pack](svg/Microsoft_OperationsManagementSuite_Workspace/QueryPack.svg) | Microsoft.OperationalInsights/ querypacks |
+| [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
+| [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
+| [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
 | [SafeFly V2](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
 | [Microsoft Security Copilot compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
