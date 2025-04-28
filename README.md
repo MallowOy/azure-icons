@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.190.0.1 on 2025-04-27.
+Extracted from Azure Portal version 15.190.0.1 on 2025-04-28.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -461,6 +461,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
+| [Disk](svg/Microsoft_Azure_DiskMgmt/DiskComputeHub.svg) |  |
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
@@ -924,8 +925,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Web PubSub Service](svg/Microsoft_Azure_SignalR/WebPubSub.svg) | Microsoft.SignalRService/ WebPubSub |
 | [SignalR Replica](svg/Microsoft_Azure_SignalR/SignalRReplica.svg) | Microsoft.SignalRService/ SignalR/ replicas |
 | [SignalR](svg/Microsoft_Azure_SignalR/SignalR.svg) | Microsoft.SignalRService/ SignalR |
-| [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
 | [Site configuration](svg/Microsoft_Azure_SiteManager/SiteConfig.svg) | Microsoft.Edge/ Configurations |
+| [Site manager - Azure Arc](svg/Microsoft_Azure_SiteManager/SiteManager.svg) | Microsoft.Edge/ sites |
 | [Azure Sphere Catalog](svg/Microsoft_Azure_Sphere/AzureSphereArm.svg) | microsoft.azuresphere/ catalogs |
 | [Azure Sphere (Legacy)](svg/Microsoft_Azure_Sphere/AzureSphere.svg) |  |
 | [Storage browser](svg/Microsoft_Azure_Storage/StorageBrowser.svg) |  |
