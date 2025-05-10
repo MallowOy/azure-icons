@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-09.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-10.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -299,10 +299,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Domain Name](svg/Microsoft_Azure_Classic_Compute/DomainName.svg) |  |
 | [Transparency log](svg/Microsoft_Azure_CloudforSovereignty/TransparencyLogsAsset.svg) | microsoft.sovereign/ transparencylogs |
 | [Regulated Environment Management](svg/Microsoft_Azure_CloudforSovereignty/SovereigntyAsset.svg) |  |
-| [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneregistrations |
-| [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneconfigurations |
 | [Landing Zone Registration](svg/Microsoft_Azure_CloudforSovereignty/LZRegistrationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneregistrations |
-| [Landing zone accounts](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
+| [Landing zone account](svg/Microsoft_Azure_CloudforSovereignty/LandingZoneAccountsAsset.svg) | microsoft.sovereign/ landingzoneaccounts |
 | [Landing Zone Configuration](svg/Microsoft_Azure_CloudforSovereignty/LZConfigurationsAsset.svg) | microsoft.sovereign/ landingzoneaccounts/ landingzoneconfigurations |
 | [Azure Cloud HSM](svg/Microsoft_Azure_CloudHSM/CloudHSM.svg) | Microsoft.HardwareSecurityModules/ cloudHsmClusters |
 | [Azure Load Testing](svg/Microsoft_Azure_CloudNativeTesting/CloudNativeTesting.svg) | Microsoft.LoadTestService/ LoadTests |
@@ -699,6 +697,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Content Delivery Network WAF policy](svg/Microsoft_Azure_Network/ContentDeliveryNetworkWafPolicy.svg) | Microsoft.Cdn/ CdnWebApplicationFirewallPolicies |
 | [Application Gateway WAF policy](svg/Microsoft_Azure_Network/ApplicationGatewayWafPolicy.svg) | Microsoft.Network/ ApplicationGatewayWebApplicationFirewallPolicies |
 | [Virtual network terminal access point](svg/Microsoft_Azure_Network/VirtualNetworkTAP.svg) | microsoft.network/ virtualnetworktaps |
+| [Virtual network link](svg/Microsoft_Azure_Network/VirtualNetworkLink.svg) | Microsoft.Network/ privateDnsZones/ virtualNetworkLinks |
 | [Virtual network](svg/Microsoft_Azure_Network/VirtualNetwork.svg) | Microsoft.Network/ virtualNetworks |
 | [Service endpoint policy](svg/Microsoft_Azure_Network/ServiceEndpointPolicy.svg) | Microsoft.Network/ serviceEndpointPolicies |
 | [Route table](svg/Microsoft_Azure_Network/RouteTable.svg) | Microsoft.Network/ routeTables |
@@ -792,6 +791,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
+| [SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentResources.svg) | Microsoft.App/ agents |
+| [SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentCustomMenu.svg) |  |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
