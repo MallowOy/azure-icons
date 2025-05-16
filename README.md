@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-15.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-16.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -14,7 +14,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Spring Apps](svg/AppPlatformExtension/AppPlatformAsset.svg) | Microsoft.AppPlatform/ Spring |
 | [Azure Cache for Redis](svg/AzureCacheExtension/CacheAsset.svg) | Microsoft.Cache/ Redis |
 | [Redis Enterprise database](svg/AzureCacheExtension/RedisEnterpriseDatabaseAsset.svg) | Microsoft.Cache/ RedisEnterprise/ Databases |
-| [Azure Managed Redis (Preview)](svg/AzureCacheExtension/RedisEnterpriseAsset.svg) | Microsoft.Cache/ RedisEnterprise |
+| [Azure Managed Redis](svg/AzureCacheExtension/RedisEnterpriseAsset.svg) | Microsoft.Cache/ RedisEnterprise |
 | [Azure DevOps organization](svg/AzureTfsExtension/Account.svg) |  |
 | [Azure DevOps organization](svg/AzureTfsExtension/Organization.svg) | microsoft.visualstudio/ account |
 | [Astro Organization](svg/Azure_Marketplace_Astronomer/Astronomer.svg) | Astronomer.Astro/ organizations |
@@ -218,7 +218,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Local Virtual Machine - Azure Arc](svg/Microsoft_AzureStackHCI_PortalExtension/HCIVirtualMachines.svg) | Microsoft.All/ hciVirtualMachines |
 | [Azure Local Storage path](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIStoragePath.svg) | Microsoft.AzureStackHCI/ storagecontainers |
 | [Azure Local](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIResource.svg) | Microsoft.AzureStackHCI/ clusters |
-| [Azure Local Network Security Group](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkSecurityGroup.svg) | Microsoft.AzureStackHCI/ networkSecurityGroups |
+| [Azure Local Network Security Group (preview)](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkSecurityGroup.svg) | Microsoft.AzureStackHCI/ networkSecurityGroups |
 | [Azure Local VM Network Interface](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCINetworkInterface.svg) | Microsoft.AzureStackHCI/ NetworkInterfaces |
 | [Azure Local Marketplace Gallery image](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCIMarketplaceGalleryImage.svg) | Microsoft.AzureStackHCI/ marketplacegalleryImages |
 | [Azure Local Logical network](svg/Microsoft_AzureStackHCI_PortalExtension/AzureStackHCILogicalNetwork.svg) | Microsoft.AzureStackHCI/ logicalnetworks |
@@ -473,7 +473,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Cosmos DB for MongoDB (vCore)](svg/Microsoft_Azure_DocumentDB/MongoCluster.svg) | Microsoft.DocumentDB/ mongoClusters |
 | [Azure Cosmos DB for PostgreSQL Cluster](svg/Microsoft_Azure_DocumentDB/PostgreSqlServerGroupV2.svg) | Microsoft.DBforPostgreSQL/ serverGroupsv2 |
 | [Azure Managed Instance for Apache Cassandra](svg/Microsoft_Azure_DocumentDB/DocumentDBCassandraClusters.svg) | Microsoft.DocumentDB/ cassandraClusters |
-| [Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
+| [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccountsWithLocations.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccountswithlocations |
+| [Potential Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/CosmosDBFleetspacePotentialDatabaseAccounts.svg) | microsoft.documentdb/ fleetspacepotentialdatabaseaccounts |
+| [Azure Cosmos DB Fleet](svg/Microsoft_Azure_DocumentDB/CosmosDBFleet.svg) | Microsoft.DocumentDB/ fleets |
 | [Azure Cosmos DB account](svg/Microsoft_Azure_DocumentDB/DocumentDBDatabaseAccount.svg) | Microsoft.DocumentDb/ databaseAccounts |
 | [Reporting & Analytics](svg/Microsoft_Azure_DocumentManagement/Microsoft_Azure_DocumentManagement.svg) |  |
 | [Microsoft Defender EASM](svg/Microsoft_Azure_EASM/EasmWorkspace.svg) | Microsoft.Easm/ workspaces |
@@ -493,6 +495,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
 | [Managed Connector](svg/Microsoft_Azure_EMA/ManagedConnector.svg) | Microsoft.Logic/ integrationServiceEnvironments/ managedApis |
+| [Logic Apps Template](svg/Microsoft_Azure_EMA/LogicAppsTemplate.svg) | Microsoft.Web/ logicAppsTemplate |
 | [Integration account](svg/Microsoft_Azure_EMA/IntegrationAccount.svg) | Microsoft.Logic/ integrationAccounts |
 | [On-premises data gateway](svg/Microsoft_Azure_EMA/Gateway.svg) | Microsoft.Web/ connectionGateways |
 | [Logic apps custom connector](svg/Microsoft_Azure_EMA/CustomConnector.svg) | Microsoft.Web/ customApis |
@@ -720,6 +723,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Load balancing - help me choose](svg/Microsoft_Azure_Network/LoadBalancingHub.svg) |  |
 | [Load balancing and content delivery](svg/Microsoft_Azure_Network/LoadBalancerAndContentDelivery.svg) |  |
 | [Load balancer](svg/Microsoft_Azure_Network/LoadBalancer.svg) | Microsoft.Network/ LoadBalancers |
+| [Load balancer](svg/Microsoft_Azure_Network/GatewayLoadBalancer.svg) |  |
 | [Guest Assignment](svg/Microsoft_Azure_Network/VMWareGuestAssignment.svg) | Microsoft.ConnectedVMwarevSphere/ virtualMachines/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Network/VMSSGuestAssignment.svg) | Microsoft.Compute/ virtualMachineScaleSets/ providers/ guestConfigurationAssignments |
 | [Guest Assignment](svg/Microsoft_Azure_Network/NonAzureGuestAssignment.svg) | Microsoft.HybridCompute/ machines/ providers/ guestConfigurationAssignments |
