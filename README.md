@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.223.11.1 on 2025-05-19.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-20.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -821,12 +821,12 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [APC Operator API Connection](svg/Microsoft_Azure_ProgrammableConnectivity/OperatorApiConnectionResource.svg) | Microsoft.ProgrammableConnectivity/ operatorApiConnections |
 | [APC Gateway](svg/Microsoft_Azure_ProgrammableConnectivity/GatewayResource.svg) | Microsoft.ProgrammableConnectivity/ gateways |
 | [Microsoft Purview account](svg/Microsoft_Azure_ProjectBabylon/PurviewAccountResource.svg) | Microsoft.Purview/ Accounts |
-| [Azure AI Foundry (preview)](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
+| [Azure AI Foundry ](svg/Microsoft_Azure_ProjectOxford/AIFoundry.svg) | Microsoft.CognitiveServices/ BrowseAIFoundry |
 | [Azure AI services](svg/Microsoft_Azure_ProjectOxford/AIServices.svg) | Microsoft.CognitiveServices/ BrowseAIServices |
 | [Azure AI services multi-service account](svg/Microsoft_Azure_ProjectOxford/AllInOne.svg) | Microsoft.CognitiveServices/ BrowseAllInOne |
 | [All Resources](svg/Microsoft_Azure_ProjectOxford/AllServices.svg) | Microsoft.CognitiveServices/ BrowseAllServices |
 | [Anomaly detector](svg/Microsoft_Azure_ProjectOxford/AnomalyDetector.svg) | Microsoft.CognitiveServices/ BrowseAnomalyDetector |
-| [Azure AI services](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
+| [Azure AI foundry](svg/Microsoft_Azure_ProjectOxford/CognitiveServicesAccount.svg) | Microsoft.CognitiveServices/ accounts |
 | [Computer vision](svg/Microsoft_Azure_ProjectOxford/ComputerVision.svg) | Microsoft.CognitiveServices/ BrowseComputerVision |
 | [Content moderator](svg/Microsoft_Azure_ProjectOxford/ContentModerator.svg) | Microsoft.CognitiveServices/ BrowseContentModerator |
 | [Content safety](svg/Microsoft_Azure_ProjectOxford/ContentSafety.svg) | Microsoft.CognitiveServices/ BrowseContentSafety |
