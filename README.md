@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.219.6.1 on 2025-05-20.
+Extracted from Azure Portal version 15.219.6.1 on 2025-05-21.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -880,6 +880,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
 | [User privacy](svg/Microsoft_Azure_Resources/UserPrivacy.svg) |  |
+| [Service group](svg/Microsoft_Azure_Resources/ServiceGroups.svg) | microsoft.management/ serviceGroups |
 | [Connected Resource](svg/Microsoft_Azure_Resources/ServiceGroupRelationships.svg) | microsoft.relationships/ serviceGroupRelationships |
 | [Service group member relationship](svg/Microsoft_Azure_Resources/ServiceGroupMembersRelationships.svg) | microsoft.relationships/ servicegroupmember |
 | [Dependency Relationship](svg/Microsoft_Azure_Resources/DependencyRelationships.svg) | microsoft.relationships/ dependencyOf |
@@ -954,11 +955,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Help + support](svg/Microsoft_Azure_Support/HelpAndSupport.svg) |  |
 | [Surface Management Portal](svg/Microsoft_Azure_Surface/SurfaceDashboard.svg) |  |
 | [Carbon optimization](svg/Microsoft_Azure_Sustainability/Sustainability.svg) |  |
-| [Synapse private link hub](svg/Microsoft_Azure_Synapse/SynapsePrivateLinkHub.svg) | Microsoft.Synapse/ privateLinkHubs |
-| [SCOPE pool](svg/Microsoft_Azure_Synapse/ScopePool.svg) | Microsoft.Synapse/ workspaces/ scopePools |
-| [Apache Spark pool](svg/Microsoft_Azure_Synapse/SparkPool.svg) | Microsoft.Synapse/ workspaces/ bigDataPools |
-| [Dedicated SQL pool](svg/Microsoft_Azure_Synapse/SynapseSqlPool.svg) | Microsoft.Synapse/ workspaces/ sqlPools |
 | [Synapse workspace](svg/Microsoft_Azure_Synapse/SynapseWorkspace.svg) | Microsoft.Synapse/ workspaces |
+| [Dedicated SQL pool](svg/Microsoft_Azure_Synapse/SynapseSqlPool.svg) | Microsoft.Synapse/ workspaces/ sqlPools |
+| [Apache Spark pool](svg/Microsoft_Azure_Synapse/SparkPool.svg) | Microsoft.Synapse/ workspaces/ bigDataPools |
+| [SCOPE pool](svg/Microsoft_Azure_Synapse/ScopePool.svg) | Microsoft.Synapse/ workspaces/ scopePools |
+| [Synapse private link hub](svg/Microsoft_Azure_Synapse/SynapsePrivateLinkHub.svg) | Microsoft.Synapse/ privateLinkHubs |
 | [Built-in template spec](svg/Microsoft_Azure_TemplateSpecs/ArmBuiltInTemplateSpec.svg) | Microsoft.Resources/ builtInTemplateSpecs |
 | [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpec.svg) | Microsoft.Resources/ templateSpecs |
 | [Template spec](svg/Microsoft_Azure_TemplateSpecs/ArmTemplateSpecMG.svg) | Microsoft.Management/ managementgroups/ providers/ templatespecs |
@@ -1069,6 +1070,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
 | [SafeFly V2](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
 | [Microsoft Security Copilot compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
+| [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
 | [Services Hub Connector](svg/Microsoft_ServicesHub_Extension/Connector.svg) | Microsoft.ServicesHub/ connectors |
 | [Azure AI Video Indexer](svg/Microsoft_VideoIndexer/VideoIndexerAccount.svg) | Microsoft.VideoIndexer/ accounts |
 | [Oracle Database@Azure](svg/Oracle_Databases_At_Azure/oracledatabaseservice.svg) |  |
