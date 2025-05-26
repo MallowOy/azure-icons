@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.223.11.1 on 2025-05-25.
+Extracted from Azure Portal version 15.223.11.1 on 2025-05-26.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -486,11 +486,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
-| [Site Key](svg/Microsoft_Azure_EdgeOrder/AllBootstrapConfigurationResources.svg) | microsoft.edgeorder/ bootstrapConfigurations |
-| [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AllOrderResources.svg) | Microsoft.EdgeOrder/ orderItems |
-| [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
+| [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
+| [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AllOrderResources.svg) | Microsoft.EdgeOrder/ orderItems |
+| [Site Key](svg/Microsoft_Azure_EdgeOrder/AllBootstrapConfigurationResources.svg) | microsoft.edgeorder/ bootstrapConfigurations |
+| [Azure Edge Hardware Center Address](svg/Microsoft_Azure_EdgeOrder/AllAddressResources.svg) | Microsoft.EdgeOrder/ addresses |
 | [Education](svg/Microsoft_Azure_Education/Education.svg) |  |
 | [Elastic SAN](svg/Microsoft_Azure_ElasticSan/ElasticSan.svg) | Microsoft.ElasticSan/ elasticsans |
 | [Logic app](svg/Microsoft_Azure_EMA/Workflow.svg) | Microsoft.Logic/ workflows |
