@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-14.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-15.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -248,10 +248,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SIM Policy](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSimPolicies.svg) | Microsoft.MobileNetwork/ mobileNetworks/ simPolicies |
 | [Mobile Network Site](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSites.svg) | Microsoft.MobileNetwork/ mobileNetworks/ sites |
 | [Slice](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSlices.svg) | Microsoft.MobileNetwork/ mobileNetworks/ slices |
-| [API Center](svg/Microsoft_Azure_ApiManagement/Center.svg) | Microsoft.ApiCenter/ services |
-| [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
-| [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
 | [Workspace](svg/Microsoft_Azure_ApiManagement/WorkspaceCatalog.svg) | Microsoft.ApiCenter/ services/ workspaces |
+| [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
+| [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
+| [API Center](svg/Microsoft_Azure_ApiManagement/Center.svg) | Microsoft.ApiCenter/ services |
 | [App Compliance Automation Tool for Microsoft 365](svg/Microsoft_Azure_AppComplianceAutomation/AppComplianceAutomation.svg) |  |
 | [Service catalog managed application definition](svg/Microsoft_Azure_Appliance/ApplianceDefinition.svg) | Microsoft.Solutions/ applicationDefinitions |
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
@@ -445,9 +445,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Microsoft Discovery Workflow](svg/Microsoft_Azure_Discovery/WorkflowResource.svg) | Microsoft.Discovery/ workflows |
 | [Microsoft Discovery Tool](svg/Microsoft_Azure_Discovery/ToolResource.svg) | Microsoft.Discovery/ tools |
 | [Microsoft Discovery Supercomputer](svg/Microsoft_Azure_Discovery/SupercomputerResource.svg) | Microsoft.Discovery/ supercomputers |
-| [Discovery Storage](svg/Microsoft_Azure_Discovery/StorageResource.svg) | Microsoft.Discovery/ storages |
+| [Microsoft Discovery Storage](svg/Microsoft_Azure_Discovery/StorageResource.svg) | Microsoft.Discovery/ storages |
 | [Microsoft Discovery Project](svg/Microsoft_Azure_Discovery/ProjectResource.svg) | Microsoft.Discovery/ workspaces/ projects |
-| [Microsoft Discovery Nodepool](svg/Microsoft_Azure_Discovery/NodepoolResource.svg) | Microsoft.Discovery/ supercomputers/ nodepools |
+| [Nodepool](svg/Microsoft_Azure_Discovery/NodepoolResource.svg) | Microsoft.Discovery/ supercomputers/ nodepools |
 | [Microsoft Discovery Model](svg/Microsoft_Azure_Discovery/ModelResource.svg) | Microsoft.Discovery/ models |
 | [Microsoft Discovery Data Container](svg/Microsoft_Azure_Discovery/DataContainerResource.svg) | Microsoft.Discovery/ dataContainers |
 | [Data asset](svg/Microsoft_Azure_Discovery/DataAssetResource.svg) | Microsoft.Discovery/ dataContainers/ dataAssets |
@@ -873,22 +873,22 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [WCF Relay](svg/Microsoft_Azure_Relay/WcfRelay.svg) | Microsoft.Relay/ namespaces/ WcfRelays |
 | [Relay](svg/Microsoft_Azure_Relay/Relay.svg) | Microsoft.Relay/ namespaces |
 | [Hybrid Connection](svg/Microsoft_Azure_Relay/HybridConnection.svg) | Microsoft.Relay/ namespaces/ HybridConnections |
-| [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
-| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBrowseAsset.svg) |  |
-| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules |
-| [Credit](svg/Microsoft_Azure_Reservations/CreditBrowseAsset.svg) | Microsoft.BillingBenefits/ credits |
-| [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
-| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
-| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
-| [Discount](svg/Microsoft_Azure_Reservations/DiscountBrowseAsset.svg) | Microsoft.BillingBenefits/ discounts |
-| [Microsoft Azure Consumption Commitment](svg/Microsoft_Azure_Reservations/MaccBrowseAsset.svg) | Microsoft.BillingBenefits/ maccs |
-| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules/ milestones |
-| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules/ milestones |
-| [Reservation order](svg/Microsoft_Azure_Reservations/ReservationOrderAsset.svg) | Microsoft.Capacity/ reservationorders |
-| [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
 | [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders |
+| [Savings plan order](svg/Microsoft_Azure_Reservations/SavingsPlanOrderAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders |
+| [Reservation order](svg/Microsoft_Azure_Reservations/ReservationOrderAsset.svg) | Microsoft.Capacity/ reservationorders |
+| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules/ milestones |
+| [Milestone](svg/Microsoft_Azure_Reservations/MilestoneBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules/ milestones |
+| [Microsoft Azure Consumption Commitment](svg/Microsoft_Azure_Reservations/MaccBrowseAsset.svg) | Microsoft.BillingBenefits/ maccs |
+| [Discount](svg/Microsoft_Azure_Reservations/DiscountBrowseAsset.svg) | Microsoft.BillingBenefits/ discounts |
+| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemServiceAdminAsset.svg) | Microsoft.BillingBenefits/ savingsPlanOrders/ savingsPlans |
+| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanItemAsset.svg) | Microsoft.Billing/ billingAccounts/ savingsPlanOrders/ savingsPlans |
+| [Reservation](svg/Microsoft_Azure_Reservations/ReservationAsset.svg) | Microsoft.Capacity/ reservationorders/ reservations |
+| [Credit](svg/Microsoft_Azure_Reservations/CreditBrowseAsset.svg) | Microsoft.BillingBenefits/ credits |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyServiceAdminAsset.svg) | Microsoft.BillingBenefits/ incentiveSchedules |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBrowseAsset.svg) |  |
+| [Incentive Schedule](svg/Microsoft_Azure_Reservations/ContingencyBillingAdminAsset.svg) | Microsoft.Billing/ billingAccounts/ incentiveSchedules |
+| [Savings plan](svg/Microsoft_Azure_Reservations/SavingsPlanBrowseAsset.svg) |  |
+| [Reservation](svg/Microsoft_Azure_Reservations/ReservationsBrowseAsset.svg) |  |
 | [Reservations_SG](svg/Microsoft_Azure_ResiliencyHub/ResiliencyHub.svg) |  |
 | [Azure Resource Mover](svg/Microsoft_Azure_ResourceMove/AzureResourceMoveHub.svg) |  |
 | [What's new](svg/Microsoft_Azure_Resources/WhatsNew.svg) |  |
