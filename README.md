@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-17.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-18.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -210,7 +210,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Administrative units](svg/Microsoft_AAD_IAM/AdminUnitManagementBlade.svg) |  |
 | [Enterprise application](svg/Microsoft_AAD_IAM/Application.svg) |  |
 | [App proxy](svg/Microsoft_AAD_IAM/AppProxyOverview.svg) |  |
-| [App registration](svg/Microsoft_AAD_RegisteredApps/RegisteredApps.svg) |  |
 | [EngageHub Portal](svg/Microsoft_AzureCXP_EngageHub/EngageHubPortalMenu.svg) |  |
 | [Azure Local - disconnected operations](svg/Microsoft_AzureStackHCI_PortalExtension/Winfields.svg) | Microsoft.Edge/ disconnectedoperations |
 | [Edge Center](svg/Microsoft_AzureStackHCI_PortalExtension/EdgeCenter.svg) |  |
@@ -248,10 +247,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [SIM Policy](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSimPolicies.svg) | Microsoft.MobileNetwork/ mobileNetworks/ simPolicies |
 | [Mobile Network Site](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSites.svg) | Microsoft.MobileNetwork/ mobileNetworks/ sites |
 | [Slice](svg/Microsoft_Azure_AP5GC/MobileNetworkMobileNetworkSlices.svg) | Microsoft.MobileNetwork/ mobileNetworks/ slices |
-| [API Center](svg/Microsoft_Azure_ApiManagement/Center.svg) | Microsoft.ApiCenter/ services |
-| [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
-| [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
 | [Workspace](svg/Microsoft_Azure_ApiManagement/WorkspaceCatalog.svg) | Microsoft.ApiCenter/ services/ workspaces |
+| [API Management service](svg/Microsoft_Azure_ApiManagement/Service.svg) | Microsoft.ApiManagement/ service |
+| [Gateway](svg/Microsoft_Azure_ApiManagement/Gateway.svg) | Microsoft.ApiManagement/ gateways |
+| [API Center](svg/Microsoft_Azure_ApiManagement/Center.svg) | Microsoft.ApiCenter/ services |
 | [App Compliance Automation Tool for Microsoft 365](svg/Microsoft_Azure_AppComplianceAutomation/AppComplianceAutomation.svg) |  |
 | [Service catalog managed application definition](svg/Microsoft_Azure_Appliance/ApplianceDefinition.svg) | Microsoft.Solutions/ applicationDefinitions |
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
@@ -373,7 +372,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
-| [Kubernetes fleet manager](svg/Microsoft_Azure_ContainerService/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Azure Red Hat OpenShift cluster](svg/Microsoft_Azure_ContainerService/AroClusters.svg) | Microsoft.RedHatOpenShift/ OpenShiftClusters |
 | [Container storage](svg/Microsoft_Azure_ContainerStorage/ContainerStorage.svg) | Microsoft.ContainerStorage/ pools |
 | [Copilot in Azure admin center](svg/Microsoft_Azure_Copilot/CopilotSettingsAsset.svg) |  |
