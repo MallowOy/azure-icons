@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-24.
+Extracted from Azure Portal version 15.238.0.1 on 2025-06-25.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -22,7 +22,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Datadog](svg/Azure_Marketplace_Datadog/Datadog.svg) | Microsoft.Datadog/ monitors |
 | [Dell PowerScale](svg/Azure_Marketplace_Dell/Azure_Microsoft_Dell.svg) | Dell.Storage/ filesystems |
 | [Dynatrace](svg/Azure_Marketplace_Dynatrace/Dynatrace.svg) | Dynatrace.Observability/ monitors |
-| [Elastic](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
+| [Elastic Cloud Resource](svg/Azure_Marketplace_Elastic/Elastic.svg) | Microsoft.Elastic/ monitors |
 | [Informatica Organization](svg/Azure_Marketplace_Informatica/Informatica.svg) | Informatica.DataManagement/ organizations |
 | [New Relic](svg/Azure_Marketplace_Liftr_NewRelic/NewRelic.svg) | NewRelic.Observability/ monitors |
 | [Azure Native Pinecone Cloud Service](svg/Azure_MarketPlace_NativeISVService/Pinecone.svg) | pinecone.vectordb/ organizations |
@@ -573,6 +573,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Extended Security Updates - Windows Server 2012/R2](svg/Microsoft_Azure_HybridCompute/EsuLicense.svg) | Microsoft.HybridCompute/ licenses |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeEsu.svg) | Microsoft.HybridCompute/ machinesEsu |
 | [Arc gateway](svg/Microsoft_Azure_HybridCompute/ArcGateway.svg) | Microsoft.HybridCompute/ gateways |
+| [Arc gateway associated resource](svg/Microsoft_Azure_HybridCompute/ArcGatewayAssociatedResources.svg) | Microsoft.HybridCompute/ ArcGatewayAssociatedResources |
 | [SCVMM management server](svg/Microsoft_Azure_HybridCompute/ScVmmManagementServer.svg) | Microsoft.ScVmm/ vmmServers |
 | [SCVMM virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcVmScVmm.svg) | Microsoft.scvmm/ virtualMachines |
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
@@ -689,6 +690,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Monitor dashboards with Grafana (PrivateRP)](svg/Microsoft_Azure_MonitorDashboard/PrivateMonitorDashboard.svg) | Private.MonitorGrafana/ dashboards |
 | [Prometheus rule group](svg/Microsoft_Azure_Monitoring/PrometheusRuleGroup.svg) | microsoft.alertsmanagement/ prometheusrulegroups |
 | [Azure Monitor workspace](svg/Microsoft_Azure_Monitoring/MonitoringAccount.svg) | microsoft.monitor/ accounts |
+| [Data collection rule associated resource](svg/Microsoft_Azure_Monitoring/DataCollectionRulesResources.svg) | Microsoft.Insights/ DataCollectionRulesResources |
 | [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
 | [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
 | [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
@@ -1135,7 +1137,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [			Deals		](svg/VLCentral_Quote/VLCentralQuote.svg) |  |
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
-| [Azure VMware Solution private cloud](svg/VMCP/SDDC.svg) | Microsoft.AVS/ privateClouds |
+| [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
 | [Data Transfer Agent](svg/WandiscoExtension/DataTransferAgent.svg) | Wandisco.Fusion/ migrators/ dataTransferAgents |
 | [Exclusion](svg/WandiscoExtension/Exclusion.svg) | Wandisco.Fusion/ migrators/ exclusionTemplates |
 | [Migration](svg/WandiscoExtension/LiveDataMigration.svg) | Wandisco.Fusion/ migrators/ liveDataMigrations |
