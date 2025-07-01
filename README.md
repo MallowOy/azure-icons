@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.238.0.1 on 2025-06-30.
+Extracted from Azure Portal version 15.242.0.1 on 2025-07-01.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -693,7 +693,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Data collection rule associated resource](svg/Microsoft_Azure_Monitoring/DataCollectionRulesResources.svg) | Microsoft.Insights/ DataCollectionRulesResources |
 | [Data collection rule](svg/Microsoft_Azure_Monitoring/DataCollectionRules.svg) | microsoft.insights/ datacollectionrules |
 | [Data collection endpoint](svg/Microsoft_Azure_Monitoring/DataCollectionEndpoints.svg) | microsoft.insights/ datacollectionendpoints |
-| [SLI](svg/Microsoft_Azure_Monitoring/Sli.svg) |  |
 | [Managed Prometheus](svg/Microsoft_Azure_Monitoring/Prometheus.svg) |  |
 | [Metrics](svg/Microsoft_Azure_Monitoring/Metrics.svg) |  |
 | [Diagnostic settings](svg/Microsoft_Azure_Monitoring/AzureMonitoringSubscriptionalLevelDiagnosticsDetail.svg) | Microsoft.Insights/ diagnosticSettings |
