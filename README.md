@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.81.2.1 on 2025-07-05.
+Extracted from Azure Portal version 15.242.0.1 on 2025-07-06.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1143,6 +1143,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Reporting & Analytics](svg/VLCentral_ReportingNAnalytics/VLCentralReporting.svg) |  |
 | [User Management](svg/VLCentral_UUM/VLCentralUUM.svg) |  |
 | [Azure VMware Solution private cloud](svg/VMCP/PrivateCloud.svg) | Microsoft.AVS/ privateClouds |
+| [Data Transfer Agent](svg/WandiscoExtension/DataTransferAgent.svg) | Wandisco.Fusion/ migrators/ dataTransferAgents |
+| [Exclusion](svg/WandiscoExtension/Exclusion.svg) | Wandisco.Fusion/ migrators/ exclusionTemplates |
+| [Migration](svg/WandiscoExtension/LiveDataMigration.svg) | Wandisco.Fusion/ migrators/ liveDataMigrations |
+| [Metadata Migration](svg/WandiscoExtension/MetadataMigration.svg) | Wandisco.Fusion/ migrators/ metadataMigrations |
+| [Metadata Target](svg/WandiscoExtension/MetadataTarget.svg) | Wandisco.Fusion/ migrators/ metadataTargets |
+| [Verification](svg/WandiscoExtension/MigrationVerification.svg) | Wandisco.Fusion/ migrators/ verifications |
+| [LiveData Migrator](svg/WandiscoExtension/Migrator.svg) | Wandisco.Fusion/ migrators |
+| [Path Mapping](svg/WandiscoExtension/PathMapping.svg) | Wandisco.Fusion/ migrators/ pathMappings |
+| [Target](svg/WandiscoExtension/Target.svg) | Wandisco.Fusion/ migrators/ targets |
 | [App Service (Slot)](svg/WebsitesExtension/WebsiteSlot.svg) | Microsoft.Web/ sites/ slots |
 | [App Service](svg/WebsitesExtension/Website.svg) | Microsoft.Web/ sites |
 | [App Service plan](svg/WebsitesExtension/WebHostingPlan.svg) | Microsoft.Web/ serverFarms |
