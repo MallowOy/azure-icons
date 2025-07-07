@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.242.0.1 on 2025-07-06.
+Extracted from Azure Portal version 15.242.0.1 on 2025-07-07.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -264,8 +264,10 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Arc](svg/Microsoft_Azure_ArcCenterUX/AzureArcCenter.svg) |  |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
+| [Azure Arc Kubernetes cluster](svg/Microsoft_Azure_ArcClusterUX/ArcK8Resources.svg) | Microsoft.Arc/ kubernetesResources |
+| [Kubernetes - Azure Arc](svg/Microsoft_Azure_ArcClusterUX/ConnectedClusters.svg) | Microsoft.Kubernetes/ connectedClusters |
+| [Kubernetes - Azure Arc extension](svg/Microsoft_Azure_ArcClusterUX/ConnectedClusterExtension.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ extensions |
 | [Arc Load Balancer](svg/Microsoft_Azure_ArcNetworking/ArcNetworking.svg) | microsoft.kubernetesruntime/ loadbalancers |
-| [My Resource](svg/Microsoft_Azure_ArcPrivateCloudUX/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Attestation provider](svg/Microsoft_Azure_Attestation/AttestResource.svg) | Microsoft.Attestation/ attestationProviders |
 | [Automanage](svg/Microsoft_Azure_AutoManagedVirtualMachines/AutoManagedVirtualMachines.svg) |  |
 | [Automation Account](svg/Microsoft_Azure_Automation/Account.svg) | Microsoft.Automation/ AutomationAccounts |
@@ -584,6 +586,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
+| [Baseline settings assignment](svg/Microsoft_Azure_HybridCompute/BaselineSettingsAssignments.svg) | Microsoft.MachineConfiguration/ baselineSettingsAssignments |
 | [Custom location](svg/Microsoft_Azure_HybridCompute/CustomLocation.svg) | Microsoft.ExtendedLocation/ CustomLocations |
 | [Azure Local virtual machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/AzureStackHci.svg) | Microsoft.AzureStackHci/ virtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_HybridCompute/VirtualMachines.svg) | Microsoft.All/ virtualMachines |
@@ -819,12 +822,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
-| [SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentResources.svg) | Microsoft.App/ agents |
-| [SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentCustomMenu.svg) |  |
+| [Azure SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentResources.svg) | Microsoft.App/ agents |
+| [Azure SRE Agent (Preview)](svg/Microsoft_Azure_PaasServerless/SreAgentCustomMenu.svg) |  |
 | [Integration Environment](svg/Microsoft_Azure_PaasServerless/IntegrationSpace.svg) | Microsoft.IntegrationSpaces/ spaces |
 | [Durable Task Scheduler](svg/Microsoft_Azure_PaasServerless/DurableTaskScheduler.svg) | Microsoft.DurableTask/ Schedulers |
 | [Business Process](svg/Microsoft_Azure_PaasServerless/BusinessProcessTracking.svg) | Microsoft.Logic/ businessprocesses |
-| [App Space](svg/Microsoft_Azure_PaasServerless/AppSpaces.svg) | Microsoft.App/ spaces |
 | [Registered prefix](svg/Microsoft_Azure_Peering/RegisteredPrefix.svg) | Microsoft.Peering/ peerings/ registeredPrefixes |
 | [Registered ASN](svg/Microsoft_Azure_Peering/RegisteredAsn.svg) | Microsoft.Peering/ peerings/ registeredAsns |
 | [Peering Service Prefix](svg/Microsoft_Azure_Peering/MicrosoftPeeringServicePrefix.svg) | Microsoft.Peering/ peeringServices/ prefixes |
