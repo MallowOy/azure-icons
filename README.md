@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 15.242.0.1 on 2025-07-07.
+Extracted from Azure Portal version 15.242.0.1 on 2025-07-08.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -1038,6 +1038,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Application group](svg/Microsoft_Azure_WVD/ApplicationGroup.svg) | Microsoft.DesktopVirtualization/ ApplicationGroups |
 | [App attach package](svg/Microsoft_Azure_WVD/AppAttach.svg) | Microsoft.DesktopVirtualization/ appAttachPackages |
 | [Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/SegmentationManagers.svg) | Microsoft.ZeroTrustSegmentation/ segmentationManagers |
+| [Private Segmentation Manager](svg/Microsoft_Azure_ZeroTrustSegmentation/PrivateSegmentationManagers.svg) | Private.ZeroTrustSegmentation/ segmentationManagers |
 | [Bing Resource](svg/Microsoft_Bing_Api/BingAPIAccount.svg) | Microsoft.Bing/ accounts |
 | [Health Model](svg/Microsoft_CloudHealth_HealthModels/AzureHealthModel.svg) | Microsoft.CloudHealth/ healthmodels |
 | [Remote Rendering Account](svg/Microsoft_Cognition_MixedReality/RemoteRenderingAccount.svg) | Microsoft.MixedReality/ remoteRenderingAccounts |
