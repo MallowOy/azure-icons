@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.81.4.1 on 2025-07-11.
+Extracted from Azure Portal version 16.81.6.1 on 2025-07-12.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -35,9 +35,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | arizeai.observabilityeval/ organizations |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
-| [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
-| [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
 | [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
+| [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
+| [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
 | [Azure Pilot](svg/Azure_Marketplace_Pilot/Pilot.svg) | Microsoft.LiftrPilot/ organizations |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
@@ -762,18 +762,14 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Application security group](svg/Microsoft_Azure_Network/ApplicationSecurityGroup.svg) | Microsoft.Network/ applicationSecurityGroups |
 | [Operator Nexus](svg/Microsoft_Azure_NetworkCloud/OperatorNexusHub.svg) |  |
 | [Route Policy (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/RoutePoliciesResource.svg) | Microsoft.ManagedNetworkFabric/ RoutePolicies |
-| [Route Policy (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FabricRoutePoliciesResource.svg) | Microsoft.ManagedNetworkFabric/ fabricRoutePolicies |
 | [Network Tap Rule (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkTapRuleResource.svg) | Microsoft.ManagedNetworkFabric/ networkTapRules |
 | [Network Tap (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkTapResource.svg) | Microsoft.ManagedNetworkFabric/ networkTaps |
-| [Network Tap (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FabricNetworkTapResource.svg) | Microsoft.ManagedNetworkFabric/ fabricNetworkTaps |
 | [Network Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkRacksResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkRacks |
 | [Network Packet Broker (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkPacketBrokersResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkPacketBrokers |
-| [Network Packet Broker (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FabricNetworkPacketBrokersResource.svg) | Microsoft.ManagedNetworkFabric/ fabricNetworkPacketBrokers |
 | [Network Interface (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkInterfaceResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices/ networkInterfaces |
 | [Network Fabric Controller (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricControllersResource.svg) | Microsoft.ManagedNetworkFabric/ networkFabricControllers |
 | [Network Fabric (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkFabricResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkFabrics |
 | [Network Device (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkDevicesResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkDevices |
-| [Network Device (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FabricNetworkDevicesResource.svg) | Microsoft.ManagedNetworkFabric/ fabricNetworkDevices |
 | [Neighbor Group (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NeighborGroupsResource.svg) | Microsoft.ManagedNetworkFabric/ NeighborGroups |
 | [Network to Network Interconnect (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NetworkToNetworkInterconnectResource.svg) | Microsoft.ManagedNetworkFabric/ NetworkFabrics/ networkToNetworkInterconnects |
 | [Layer 3 Isolation Domain (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/L3IsolationDomainsResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains |
@@ -784,32 +780,23 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Internet Gateway Rule (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternetGatewayRulesResource.svg) | Microsoft.ManagedNetworkFabric/ internetGatewayRules |
 | [Internet Gateway (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternetGatewaysResource.svg) | Microsoft.ManagedNetworkFabric/ internetGateways |
 | [Internal Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/InternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ internalNetworks |
-| [Network Fabric Resource (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FabricResources.svg) | Microsoft.ManagedNetworkFabric/ fabricResources |
 | [External Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ExternalNetworkResource.svg) | Microsoft.ManagedNetworkFabric/ l3IsolationDomains/ externalNetworks |
 | [Access Control List (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AccessControlListsResource.svg) | Microsoft.ManagedNetworkFabric/ accessControlLists |
 | [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VolumeResource.svg) | Microsoft.NetworkCloud/ volumes |
-| [Volume (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterVolumeResource.svg) | Microsoft.NetworkCloud/ clusterVolumes |
 | [Virtual Machine Console (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ConsoleResource.svg) | Microsoft.NetworkCloud/ virtualMachines/ consoles |
 | [Virtual Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/VirtualMachineResource.svg) | Microsoft.NetworkCloud/ virtualMachines |
 | [Trunked Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/TrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ trunkedNetworks |
-| [Trunked Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterTrunkedNetworksResource.svg) | Microsoft.NetworkCloud/ clusterTrunkedNetworks |
 | [Storage Appliance (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/StorageApplianceResource.svg) | Microsoft.NetworkCloud/ storageAppliances |
-| [Storage Appliance (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterStorageApplianceResource.svg) | Microsoft.NetworkCloud/ clusterStorageAppliances |
 | [Kubernetes Cluster Feature (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/FeatureResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ features |
 | [Kubernetes Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/NexusAksClusterResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters |
 | [Layer 3 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer3NetworksResource.svg) | Microsoft.NetworkCloud/ l3Networks |
-| [Layer 3 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterLayer3NetworksResource.svg) | Microsoft.NetworkCloud/ clusterL3Networks |
 | [Layer 2 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/Layer2NetworksResource.svg) | Microsoft.NetworkCloud/ l2Networks |
-| [Layer 2 Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterLayer2NetworksResource.svg) | Microsoft.NetworkCloud/ clusterL2Networks |
 | [Compute Rack (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ComputeRackResource.svg) | Microsoft.NetworkCloud/ racks |
-| [Cluster Resource (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterResources.svg) | Microsoft.NetworkCloud/ clusterResources |
-| [Cluster Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterNetworks.svg) | Microsoft.NetworkCloud/ clusterNetworks |
 | [Cluster Metrics Configuration (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterMetricConfigResource.svg) | Microsoft.NetworkCloud/ clusters/ metricsConfigurations |
 | [Cluster Manager (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterMgrResource.svg) | Microsoft.NetworkCloud/ clusterManagers |
 | [Cluster Bare Metal Machine Key Set (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterBmmKeysetResource.svg) | Microsoft.NetworkCloud/ clusters/ bareMetalMachineKeySets |
 | [Cluster Baseboard Management Controller Key Set (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterBmcKeysetResource.svg) | Microsoft.NetworkCloud/ clusters/ bmcKeySets |
 | [Cluster (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterResource.svg) | Microsoft.NetworkCloud/ clusters |
-| [Cloud Services Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/ClusterCloudServicesNet.svg) | Microsoft.NetworkCloud/ clusterCloudServicesNetworks |
 | [Cloud Services Network (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/CloudServicesNet.svg) | Microsoft.NetworkCloud/ cloudServicesNetworks |
 | [Bare Metal Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/BareMetalMachineResource.svg) | Microsoft.NetworkCloud/ bareMetalMachines |
 | [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
@@ -832,7 +819,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Ground Station](svg/Microsoft_Azure_Orbital/GroundStations.svg) | Microsoft.Orbital/ GroundStations |
 | [GeoCatalog](svg/Microsoft_Azure_Orbital/geoCatalogs.svg) | Microsoft.Orbital/ geoCatalogs |
 | [Edge Site](svg/Microsoft_Azure_Orbital/EdgeSites.svg) | Microsoft.Orbital/ EdgeSites |
-| [Azure OrionDB for PostgreSQL](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
