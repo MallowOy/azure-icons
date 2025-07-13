@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.81.6.1 on 2025-07-12.
+Extracted from Azure Portal version 16.81.6.1 on 2025-07-13.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -35,9 +35,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | arizeai.observabilityeval/ organizations |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
-| [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
-| [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
 | [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
+| [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
+| [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Azure Pilot](svg/Azure_Marketplace_Pilot/Pilot.svg) | Microsoft.LiftrPilot/ organizations |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
@@ -819,6 +819,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Ground Station](svg/Microsoft_Azure_Orbital/GroundStations.svg) | Microsoft.Orbital/ GroundStations |
 | [GeoCatalog](svg/Microsoft_Azure_Orbital/geoCatalogs.svg) | Microsoft.Orbital/ geoCatalogs |
 | [Edge Site](svg/Microsoft_Azure_Orbital/EdgeSites.svg) | Microsoft.Orbital/ EdgeSites |
+| [Azure OrionDB for PostgreSQL](svg/Microsoft_Azure_OSSDatabases/PostgreSqlOrionDB.svg) | Microsoft.OrionDB/ clusters |
 | [Azure Database for PostgreSQL flexible server](svg/Microsoft_Azure_OSSDatabases/PostgreSqlFlexibleServer.svg) | Microsoft.DBforPostgreSQL/ flexibleServers |
 | [Azure Database for MySQL flexible server](svg/Microsoft_Azure_OSSDatabases/MySqlFlexibleServer.svg) | Microsoft.DBforMySQL/ flexibleServers |
 | [Task Hub](svg/Microsoft_Azure_PaasServerless/TaskHub.svg) | Microsoft.DurableTask/ Schedulers/ TaskHubs |
@@ -934,7 +935,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Center for SAP solutions](svg/Microsoft_Azure_SAPManagement/SAPOnAzure.svg) |  |
 | [Virtual Instance for SAP solutions](svg/Microsoft_Azure_SAPManagement/SapVirtualInstanceAsset.svg) | Microsoft.Workloads/ sapVirtualInstances |
 | [Search service](svg/Microsoft_Azure_Search/SearchService.svg) | Microsoft.Search/ searchServices |
-| [My Resource](svg/Microsoft_Azure_SecureExchange/SecureExchange.svg) | Providers.Test/ statefulIbizaEngines |
 | [Microsoft Defender for Cloud](svg/Microsoft_Azure_Security/SecurityDashboard.svg) |  |
 | [Security Alert](svg/Microsoft_Azure_Security/SecurityAlerts.svg) | microsoft.security/ locations/ alerts |
 | [Microsoft Sentinel](svg/Microsoft_Azure_Security_Insights/Entity.svg) |  |
@@ -1097,9 +1097,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Log Analytics workspace](svg/Microsoft_OperationsManagementSuite_Workspace/Workspace.svg) | Microsoft.OperationalInsights/ workspaces |
 | [Solution](svg/Microsoft_OperationsManagementSuite_Workspace/Solution.svg) | Microsoft.OperationsManagement/ solutions |
 | [Log Analytics dedicated cluster](svg/Microsoft_OperationsManagementSuite_Workspace/cluster.svg) | microsoft.operationalinsights/ clusters |
-| [Sample](svg/Microsoft_Premonition/Sample.svg) | Microsoft.Premonition/ Libraries/ Samples |
-| [Library](svg/Microsoft_Premonition/Library.svg) | Microsoft.Premonition/ Libraries |
-| [Analysis](svg/Microsoft_Premonition/Analysis.svg) | Microsoft.Premonition/ Libraries/ Analyses |
 | [SafeFly V2](svg/Microsoft_SafeflyV2/SafeFlyV2.svg) |  |
 | [Microsoft Security compute capacity](svg/Microsoft_Security_Copilot/SecurityCopilotResource.svg) | Microsoft.SecurityCopilot/ capacities |
 | [Private Engage Center Connector](svg/Microsoft_ServicesHub_Extension/PrivateConnector.svg) | Private.ServicesHubDev/ connectors |
