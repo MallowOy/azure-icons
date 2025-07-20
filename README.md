@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.97.1.1 on 2025-07-19.
+Extracted from Azure Portal version 16.97.1.1 on 2025-07-20.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -557,6 +557,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Firmware analysis workspace](svg/Microsoft_Azure_FIST/FirmwareAnalysisWorkspace.svg) | microsoft.iotfirmwaredefense/ workspaces |
 | [Fluid Relay](svg/Microsoft_Azure_FluidRelay/FrsResource.svg) | Microsoft.FluidRelay/ fluidRelayServers |
 | [Front Door and CDN profiles](svg/Microsoft_Azure_Frontdoor/AzureFrontdoor.svg) | Microsoft.Network/ frontdoors |
+| [Global view](svg/Microsoft_Azure_GlobalView/GlobalView.svg) |  |
 | [Microsoft Graph Data Connect](svg/Microsoft_Azure_GraphDataConnect/Microsoft_Graph_Data_Connect.svg) |  |
 | [Cost Management + Billing](svg/Microsoft_Azure_GTM/Billing.svg) |  |
 | [Invoice](svg/Microsoft_Azure_GTM/Invoice.svg) |  |
@@ -850,9 +851,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Playwright Testing](svg/Microsoft_Azure_PlaywrightService/PlaywrightService.svg) | Microsoft.AzurePlaywrightService/ accounts |
 | [Policy](svg/Microsoft_Azure_Policy/PolicyHub.svg) |  |
 | [Blueprint](svg/Microsoft_Azure_Policy/ArmBlueprintHub.svg) |  |
-| [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
-| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
 | [Shared dashboard (preview)](svg/Microsoft_Azure_PortalDashboard/DashboardsV2.svg) | Microsoft.Portalservices/ dashboards |
+| [Shared dashboard](svg/Microsoft_Azure_PortalDashboard/Dashboards.svg) | Microsoft.Portal/ dashboards |
+| [Dashboard hub](svg/Microsoft_Azure_PortalDashboard/DashboardHub.svg) |  |
 | [Power BI Embedded](svg/Microsoft_Azure_PowerBIDedicated/PowerBIDedicated.svg) | Microsoft.PowerBIDedicated/ capacities |
 | [Power Platform](svg/Microsoft_Azure_PowerPlatform/PowerPlatform.svg) |  |
 | [Private DNS zone](svg/Microsoft_Azure_PrivateDNS/PrivateDnsZone.svg) | Microsoft.Network/ privateDnsZones |
