@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.106.0.1 on 2025-08-03.
+Extracted from Azure Portal version 16.106.0.1 on 2025-08-04.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -379,7 +379,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes hub](svg/Microsoft_Azure_ContainerService/KubernetesHub.svg) |  |
 | [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Managed Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
+| [Managed Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
