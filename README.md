@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.106.0.1 on 2025-08-04.
+Extracted from Azure Portal version 16.101.4.1 on 2025-08-05.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -327,23 +327,17 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Communications Gateway Test Line](svg/Microsoft_Azure_CommunicationsGatewayExtension/TestLines.svg) | Microsoft.VoiceServices/ CommunicationsGateways/ TestLines |
 | [Communications Gateway](svg/Microsoft_Azure_CommunicationsGatewayExtension/CommunicationsGateways.svg) | Microsoft.VoiceServices/ CommunicationsGateways |
 | [Community Training](svg/Microsoft_Azure_CommunityTraining/CommunityTraining.svg) | Microsoft.Community/ communityTrainings |
-| [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSetComputeHub.svg) | Microsoft.Compute/ virtualMachineScaleSetsComputehub |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/VirtualMachineScaleSet.svg) | Microsoft.Compute/ virtualMachineScaleSets |
-| [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachineComputeHub.svg) | Microsoft.Compute/ VirtualMachineComputehub |
 | [Virtual machine](svg/Microsoft_Azure_Compute/VirtualMachine.svg) | Microsoft.Compute/ VirtualMachines |
 | [Virtual machine](svg/Microsoft_Azure_Compute/AllVirtualMachine.svg) | Microsoft.All/ virtualMachines |
 | [SSH key](svg/Microsoft_Azure_Compute/SshKey.svg) | Microsoft.Compute/ sshPublicKeys |
-| [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroupComputeHub.svg) | Microsoft.Compute/ ProximityPlacementGroupsComputehub |
 | [Proximity placement group](svg/Microsoft_Azure_Compute/ProximityPlacementGroup.svg) | Microsoft.Compute/ ProximityPlacementGroups |
 | [Instance](svg/Microsoft_Azure_Compute/VirtualMachineFlexInstance.svg) | microsoft.compute/ virtualmachineflexinstances |
 | [Standby pool](svg/Microsoft_Azure_Compute/StandbyPoolInstance.svg) | microsoft.compute/ standbypoolinstance |
 | [Virtual machine scale set](svg/Microsoft_Azure_Compute/ComputeFleetScaleSet.svg) | microsoft.compute/ computefleetscalesets |
 | [Instance](svg/Microsoft_Azure_Compute/ComputeFleetInstance.svg) | microsoft.compute/ computefleetinstances |
-| [Host](svg/Microsoft_Azure_Compute/DedicatedHostComputeHub.svg) |  |
 | [Host](svg/Microsoft_Azure_Compute/DedicatedHost.svg) | Microsoft.Compute/ hostgroups/ hosts |
-| [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroupComputeHub.svg) | Microsoft.Compute/ hostgroupsComputehub |
 | [Host group](svg/Microsoft_Azure_Compute/DedicatedHostGroup.svg) | Microsoft.Compute/ hostgroups |
-| [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroupComputeHub.svg) | Microsoft.Compute/ capacityReservationGroupsComputehub |
 | [Capacity Reservation Group](svg/Microsoft_Azure_Compute/CapacityReservationGroup.svg) | Microsoft.Compute/ capacityReservationGroups |
 | [Availability set](svg/Microsoft_Azure_Compute/AvailabilitySet.svg) | Microsoft.Compute/ availabilitySets |
 | [Windows OS](svg/Microsoft_Azure_ComputeHub/WindowsOSType.svg) | Microsoft.ComputeHub/ WindowsOSType |
@@ -375,11 +369,11 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
-| [Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
+| [Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes - Azure Arc namespace](svg/Microsoft_Azure_ContainerService/ConnectedClusterNamespaces.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
 | [Kubernetes hub](svg/Microsoft_Azure_ContainerService/KubernetesHub.svg) |  |
 | [Container instances](svg/Microsoft_Azure_ContainerService/ContainerGroup.svg) | Microsoft.ContainerInstance/ containerGroups |
-| [Managed Kubernetes namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
+| [Managed Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ managedNamespaces |
 | [Kubernetes service](svg/Microsoft_Azure_ContainerService/ManagedClusters.svg) | Microsoft.ContainerService/ managedClusters |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensionsChild.svg) | microsoft.containerservice/ managedclusters/ microsoft.kubernetesconfiguration/ extensions |
 | [Kubernetes service extension](svg/Microsoft_Azure_ContainerService/KubernetesClusterExtensions.svg) | microsoft.kubernetesconfiguration/ extensions |
@@ -469,20 +463,15 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure compute gallery](svg/Microsoft_Azure_DiskMgmt/SharedImageGallery.svg) | Microsoft.Compute/ galleries |
 | [Restore Point Collection](svg/Microsoft_Azure_DiskMgmt/RestorePointCollection.svg) | Microsoft.Compute/ restorePointCollections |
 | [Restore Point](svg/Microsoft_Azure_DiskMgmt/RestorePoint.svg) | Microsoft.Compute/ restorePointCollections/ restorePoints |
-| [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersionComputeHub.svg) |  |
 | [VM image version](svg/Microsoft_Azure_DiskMgmt/ImageVersion.svg) | Microsoft.Compute/ galleries/ images/ versions |
 | [Image template](svg/Microsoft_Azure_DiskMgmt/ImageTemplate.svg) | Microsoft.VirtualMachineImages/ imageTemplates |
-| [Image](svg/Microsoft_Azure_DiskMgmt/ImageComputeHub.svg) | Microsoft.Compute/ imagesComputehub |
 | [Image](svg/Microsoft_Azure_DiskMgmt/Image.svg) | Microsoft.Compute/ images |
-| [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinitionComputeHub.svg) | Microsoft.Compute/ galleries/ imagesComputehub |
 | [VM image definition](svg/Microsoft_Azure_DiskMgmt/ImageDefinition.svg) | Microsoft.Compute/ galleries/ images |
 | [VM application version](svg/Microsoft_Azure_DiskMgmt/GalleryApplicationVersion.svg) | Microsoft.Compute/ galleries/ applications/ versions |
 | [VM application definition](svg/Microsoft_Azure_DiskMgmt/GalleryApplication.svg) | Microsoft.Compute/ galleries/ applications |
-| [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSetComputeHub.svg) |  |
 | [Disk Encryption Set](svg/Microsoft_Azure_DiskMgmt/DiskEncryptionSet.svg) | Microsoft.Compute/ diskEncryptionSets |
 | [Disk Access](svg/Microsoft_Azure_DiskMgmt/DiskAccess.svg) | Microsoft.Compute/ diskAccesses |
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
-| [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImageComputeHub.svg) | Microsoft.Compute/ locations/ communityGalleries/ imagesComputehub |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | Microsoft.DataMigration/ sqlmigrationservices |
 | [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/DmsCenter.svg) | Microsoft.DataMigration/ dmscentermain |
@@ -588,7 +577,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Arc Private Link Scope](svg/Microsoft_Azure_HybridCompute/AzureArcPrivateLinkScope.svg) | Microsoft.HybridCompute/ privateLinkScopes |
 | [Multicloud synced resource](svg/Microsoft_Azure_HybridCompute/MulticloudSyncedResources.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors/ multicloudsyncedresources |
 | [Multicloud connector](svg/Microsoft_Azure_HybridCompute/MultiCloudConnector.svg) | Microsoft.HybridConnectivity/ publicCloudConnectors |
-| [Microsoft.AwsConnector ec2 instance](svg/Microsoft_Azure_HybridCompute/microsoft_awsconnector_ec2instances_2024_08_01_preview.svg) | microsoft.hybridcompute/ machines/ microsoft.awsconnector/ ec2instances |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridComputeSovereign.svg) | Microsoft.HybridCompute/ machinesSovereign |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/HybridCompute.svg) | Microsoft.HybridCompute/ machines |
 | [Machine - Azure Arc](svg/Microsoft_Azure_HybridCompute/ArcServerWithWac.svg) | Microsoft.HybridCompute/ arcServerWithWac |
