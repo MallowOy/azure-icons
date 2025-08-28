@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.120.1.1 on 2025-08-27.
+Extracted from Azure Portal version 16.120.1.1 on 2025-08-28.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -35,9 +35,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | arizeai.observabilityeval/ organizations |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
-| [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
-| [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
 | [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
+| [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
+| [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Azure Pilot](svg/Azure_Marketplace_Pilot/Pilot.svg) | Microsoft.LiftrPilot/ organizations |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
@@ -517,8 +517,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [API Connection](svg/Microsoft_Azure_EMA/ApiConnection.svg) | Microsoft.Web/ connections |
 | [Email Communication Service](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationService.svg) | Microsoft.Communication/ EmailServices |
 | [Email Communication Services Domain](svg/Microsoft_Azure_EmailCommunicationServices/EmailCommunicationServicesDomain.svg) | Microsoft.Communication/ EmailServices/ Domains |
-| [Azure Center for Epic solution](svg/Microsoft_Azure_EpicManagement/LandingAsset.svg) |  |
-| [Virtual Instance for Epic solution](svg/Microsoft_Azure_EpicManagement/OverviewAsset.svg) | Microsoft.Workloads/ epicVirtualInstances |
 | [Event Grid Topic Space](svg/Microsoft_Azure_EventGrid/TopicSpace.svg) | Microsoft.EventGrid/ namespaces/ topicSpaces |
 | [Event Grid Topic](svg/Microsoft_Azure_EventGrid/Topic.svg) | Microsoft.EventGrid/ topics |
 | [Event Grid Subscriptions](svg/Microsoft_Azure_EventGrid/SystemTopicEventSubscription.svg) | Microsoft.EventGrid/ systemTopics/ eventSubscriptions |
@@ -636,6 +634,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
+| [Kubernetes hub](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
@@ -819,8 +818,8 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Bare Metal Machine (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/BareMetalMachineResource.svg) | Microsoft.NetworkCloud/ bareMetalMachines |
 | [Agent Pool (Operator Nexus)](svg/Microsoft_Azure_NetworkCloud/AgentPoolResource.svg) | Microsoft.NetworkCloud/ kubernetesClusters/ agentPools |
 | [My Resource](svg/Microsoft_Azure_NetworkCopilotExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
-| [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/networkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
-| [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/NspProfiles.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
+| [Network Security Perimeter](svg/Microsoft_Azure_NetworkSecurityPerimeter/NetworkSecurityPerimeter.svg) | Microsoft.Network/ networkSecurityPerimeters |
+| [Profile](svg/Microsoft_Azure_NetworkSecurityPerimeter/Profile.svg) | Microsoft.Network/ networkSecurityPerimeters/ profiles |
 | [Global Secure Access](svg/Microsoft_Azure_Network_Access/NetworkAccess.svg) |  |
 | [Notification Hub](svg/Microsoft_Azure_NotificationHubs/NotificationHub.svg) | Microsoft.NotificationHubs/ namespaces/ notificationHubs |
 | [Notification Hub Namespace](svg/Microsoft_Azure_NotificationHubs/Namespace.svg) | Microsoft.NotificationHubs/ namespaces |
