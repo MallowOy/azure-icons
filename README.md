@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.130.0.1 on 2025-08-29.
+Extracted from Azure Portal version 16.120.1.1 on 2025-08-30.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -35,9 +35,9 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Azure Native Arize AI Cloud Service](svg/Azure_MarketPlace_NativeISVService/ArizeAi.svg) | arizeai.observabilityeval/ organizations |
 | [Neon Serverless Postgres Organization](svg/Azure_Marketplace_Neon/NeonResource.svg) | Neon.Postgres/ organizations |
 | [NGINXaaS](svg/Azure_Marketplace_NGINX/Nginx.svg) | NGINX.NGINXPLUS/ nginxDeployments |
-| [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
-| [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
 | [Local Rulestack for Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksLocalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ localRulestacks |
+| [Global Rulestack](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksGlobalRulestack.svg) | PaloAltoNetworks.Cloudngfw/ globalRulestacks |
+| [Cloud NGFW by Palo Alto Networks](svg/Azure_Marketplace_PaloAltoNetworks_Cloudngfw/PaloAltoNetworksCloudNGFW.svg) | PaloAltoNetworks.Cloudngfw/ firewalls |
 | [Azure Pilot](svg/Azure_Marketplace_Pilot/Pilot.svg) | Microsoft.LiftrPilot/ organizations |
 | [PureStorage.Block storage pools avs storage container](svg/Azure_Marketplace_PureStorage/purestorage_block_storagepools_avsstoragecontainers.svg) | purestorage.block/ storagepools/ avsstoragecontainers |
 | [Azure Native Pure Storage Cloud Service](svg/Azure_Marketplace_PureStorage/purestorage_block_reservations.svg) | purestorage.block/ reservations |
@@ -258,6 +258,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Managed applications center](svg/Microsoft_Azure_Appliance/ApplicationsHub.svg) |  |
 | [Managed application](svg/Microsoft_Azure_Appliance/ArmAppliance.svg) | Microsoft.Solutions/ applications |
 | [Visual Studio Online Plan](svg/Microsoft_Azure_Appliance/MicrosoftVSOnlinePlans.svg) | Microsoft.VSOnline/ Plans |
+| [App Protect Policy](svg/Microsoft_Azure_AppProtection/AppProtectPolicies.svg) | Microsoft.AppSecurity/ Policies |
 | [Azure Arc](svg/Microsoft_Azure_ArcCenterUX/AzureArcCenter.svg) |  |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResourcesFairfax.svg) | Microsoft.Arc/ allFairfax |
 | [Azure Arc enabled resource](svg/Microsoft_Azure_ArcCenterUX/AllArcResources.svg) | Microsoft.Arc/ all |
@@ -415,6 +416,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Backup center](svg/Microsoft_Azure_DataProtection/BackupCenter.svg) |  |
 | [Data Share Invitation](svg/Microsoft_Azure_DataShare/InvitationsBrowse.svg) |  |
 | [Data Share](svg/Microsoft_Azure_DataShare/DataShare.svg) | Microsoft.DataShare/ accounts |
+| [ClusterStor](svg/Microsoft_Azure_Dedicated_ClusterStor/ClusterStor.svg) | Microsoft.ClusterStor/ nodes |
 | [Security Detonation Chamber](svg/Microsoft_Azure_DetonationService/DetonationChamber.svg) | Microsoft.SecurityDetonation/ chambers |
 | [Project](svg/Microsoft_Azure_DevCenter/Project.svg) | Microsoft.DevCenter/ projects |
 | [Pool](svg/Microsoft_Azure_DevCenter/Pools.svg) | Microsoft.DevCenter/ projects/ pools |
@@ -499,6 +501,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [My Resource](svg/Microsoft_Azure_EdgeAIExtension/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
 | [Azure Stack Edge / Data Box Gateway](svg/Microsoft_Azure_EdgeGateway/EdgeGateway.svg) | Microsoft.DataBoxEdge/ dataBoxEdgeDevices |
 | [My Resource](svg/Microsoft_Azure_EdgeManagementCopilot/MyResource.svg) | Providers.Test/ statefulIbizaEngines |
+| [Edge Machine](svg/Microsoft_Azure_EdgeOrder/EdgeMachine.svg) | Microsoft.AzureStackHCI/ edgeMachines |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AzureEdgeDevice.svg) |  |
 | [Device](svg/Microsoft_Azure_EdgeOrder/AllZtpOrderItemResources.svg) | Microsoft.EdgeOrder/ virtual_orderItems |
 | [Azure Edge Hardware Center](svg/Microsoft_Azure_EdgeOrder/AllOrderResources.svg) | Microsoft.EdgeOrder/ orderItems |
@@ -632,6 +635,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Key vault](svg/Microsoft_Azure_KeyVault/KeyVault.svg) | Microsoft.KeyVault/ vaults |
 | [Key](svg/Microsoft_Azure_KeyVault/Key.svg) |  |
 | [Certificate](svg/Microsoft_Azure_KeyVault/Certificate.svg) |  |
+| [Kubernetes hub](svg/Microsoft_Azure_KubernetesFleet/KubernetesHub.svg) |  |
 | [Kubernetes fleet manager](svg/Microsoft_Azure_KubernetesFleet/Fleets.svg) | microsoft.containerservice/ fleets |
 | [Data Explorer Database](svg/Microsoft_Azure_Kusto/kustoSynapsePoolDatabase.svg) | Microsoft.Synapse/ workspaces/ kustopools/ databases |
 | [Data Explorer pool (preview)](svg/Microsoft_Azure_Kusto/kustoSynapsePool.svg) | Microsoft.Synapse/ workspaces/ kustopools |
