@@ -1,6 +1,6 @@
 # Azure Icons
 
-Extracted from Azure Portal version 16.133.0.1 on 2025-09-11.
+Extracted from Azure Portal version 16.133.0.1 on 2025-09-12.
 
 Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions).
 
@@ -366,7 +366,6 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Container registry scope map](svg/Microsoft_Azure_ContainerRegistries/ScopeMapResource.svg) | Microsoft.ContainerRegistry/ registries/ scopeMaps |
 | [Container registry replication](svg/Microsoft_Azure_ContainerRegistries/ReplicationResource.svg) | Microsoft.ContainerRegistry/ registries/ replications |
 | [Container registry](svg/Microsoft_Azure_ContainerRegistries/RegistryResource.svg) | Microsoft.ContainerRegistry/ registries |
-| [](svg/Microsoft_Azure_ContainerRegistries/CreateConnectedRegistryArcResource.svg) | Microsoft.KubernetesConfiguration/ extensions |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ManagedClustersGitOpsConfiguration.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [GitOps configuration](svg/Microsoft_Azure_ContainerService/ConnectedClustersGitOpsConfiguration.svg) | Microsoft.Kubernetes/ connectedClusters/ Microsoft.KubernetesConfiguration/ fluxConfigurations |
 | [Kubernetes Namespace](svg/Microsoft_Azure_ContainerService/ManagedClusterNamespaces.svg) | Microsoft.ContainerService/ managedClusters/ Microsoft.KubernetesConfiguration/ namespaces |
@@ -472,7 +471,7 @@ Icons [used with permission from Microsoft](https://www.microsoft.com/en-us/lega
 | [Disk](svg/Microsoft_Azure_DiskMgmt/Disk.svg) | Microsoft.Compute/ disks |
 | [Community image](svg/Microsoft_Azure_DiskMgmt/CommunityImage.svg) | Microsoft.Compute/ locations/ communityGalleries/ images |
 | [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsV2.svg) | Microsoft.DataMigration/ sqlmigrationservices |
-| [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/DmsCenter.svg) | Microsoft.DataMigration/ dmscentermain |
+| [Azure Database Migration Service](svg/Microsoft_Azure_DMS/DmsCenter.svg) | Microsoft.DataMigration/ dmscentermain |
 | [Azure Database Migration Service resource](svg/Microsoft_Azure_DMS/AllDmsResources.svg) | Microsoft.DataMigration/ all |
 | [Azure Database Migration Project](svg/Microsoft_Azure_DMS/DmsProject.svg) | Microsoft.DataMigration/ services/ projects |
 | [Azure Database Migration Service (classic)](svg/Microsoft_Azure_DMS/Dms.svg) | Microsoft.DataMigration/ services |
